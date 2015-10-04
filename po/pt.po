@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: 3.8\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
 "product=empathy&keywords=I18N+L10N&component=General\n"
-"POT-Creation-Date: 2015-09-29 03:30+0000\n"
-"PO-Revision-Date: 2015-09-29 18:02+0100\n"
+"POT-Creation-Date: 2015-10-04 08:08+0000\n"
+"PO-Revision-Date: 2015-10-04 09:11+0100\n"
 "Last-Translator: Pedro Albuquerque <palbuquerque73@gmail.com>\n"
 "Language-Team: Português <palbuquerque73@gmail.com>\n"
 "Language: pt\n"
@@ -46,7 +46,7 @@ msgstr "diálogo;conversa;im;mensagem;irc;voip;gtalk;facebook;jabber;chat;"
 #: ../data/empathy.appdata.xml.in.h:1
 msgid ""
 "Empathy is the official instant messaging application of the GNOME desktop "
-"environment.  Empathy can connect to AIM, MSN, Jabber (including Facebook "
+"environment.  Empathy can connect to AIM, MSN, Jabber (including Facebook "
 "and Google Talk), IRC, and many other messaging networks. You can chat with "
 "text, make audio and video calls, or even transfer files, depending on what "
 "your contact’s chat application allows."
@@ -61,7 +61,7 @@ msgstr ""
 #: ../data/empathy.appdata.xml.in.h:2
 msgid ""
 "Empathy provides integrated messaging for the GNOME desktop, so you’ll never "
-"miss a message.  You can respond to your contacts without even having to "
+"miss a message.  You can respond to your contacts without even having to "
 "open Empathy!"
 msgstr ""
 "O Emphathy fornece um sistema de mensagens integradas para o ambiente de "
@@ -1330,14 +1330,12 @@ msgstr "Casa"
 #. * the second one is something like 'home' or 'work'.
 #: ../libempathy-gtk/empathy-individual-menu.c:478
 #, c-format
-#| msgid "%s (%s)"
 msgid "Call %s (%s)"
 msgstr "Chamar %s (%s)"
 
 #. translators: argument is a phone number like +32123456
 #: ../libempathy-gtk/empathy-individual-menu.c:483
 #, c-format
-#| msgid "Called %s"
 msgid "Call %s"
 msgstr "Chamar %s"
 
@@ -3692,8 +3690,9 @@ msgid "Help"
 msgstr "Ajuda"
 
 #: ../src/empathy-roster-window-menubar.ui.h:16
-msgid "About"
-msgstr "Sobre"
+#| msgid "Empathy"
+msgid "About Empathy"
+msgstr "Sobre o Empathy"
 
 #: ../src/empathy-roster-window-menubar.ui.h:17
 #: ../src/empathy-status-icon.ui.h:5
@@ -3733,6 +3732,9 @@ msgstr "Editar as opções da conta %s"
 #: ../ubuntu-online-accounts/empathy.application.in.h:1
 msgid "Integrate your IM accounts"
 msgstr "Integre as suas contas de mensagens instantâneas"
+
+#~ msgid "About"
+#~ msgstr "Sobre"
 
 #~ msgid "Empathy can use the network to guess the location"
 #~ msgstr "O Empathy pode utilizar a rede para calcular a localização"
