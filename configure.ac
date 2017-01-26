@@ -68,7 +68,7 @@ GCR_REQUIRED=2.91.4
 LIBCANBERRA_GTK_REQUIRED=0.25
 LIBNOTIFY_REQUIRED=0.7.0
 TELEPATHY_LOGGER=0.8.0
-WEBKIT_REQUIRED=1.9.1
+WEBKIT_REQUIRED=2.10.0
 GOA_REQUIRED=3.5.1
 
 # Optional deps
@@ -233,7 +233,7 @@ PKG_CHECK_MODULES(EMPATHY,
    gcr-3 >= $GCR_REQUIRED
    libpulse
    libpulse-mainloop-glib
-   webkitgtk-3.0 >= $WEBKIT_REQUIRED
+   webkit2gtk-4.0 >= $WEBKIT_REQUIRED
    libsoup-2.4
    gee-0.8
 ])
