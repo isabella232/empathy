@@ -6,10 +6,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: empathy master\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?"
 "product=empathy&keywords=I18N+L10N&component=General\n"
-"POT-Creation-Date: 2016-04-15 15:37+0000\n"
-"PO-Revision-Date: 2016-04-16 01:26+0200\n"
+"POT-Creation-Date: 2017-03-13 17:40+0000\n"
+"PO-Revision-Date: 2017-03-19 22:38+0100\n"
 "Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
 "Language-Team: Friulian <fur@li.org>\n"
 "Language: fur\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.5\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #: ../data/empathy.desktop.in.in.h:1
 msgid "Empathy"
@@ -124,8 +124,7 @@ msgstr ""
 "operazions di mondece a scugnin sedi eseguidis o no. I utents no varessin di "
 "cambiâ chest numar a man."
 
-#: ../data/org.gnome.Empathy.gschema.xml.h:12
-#: ../src/empathy-preferences.ui.h:1
+#: ../data/org.gnome.Empathy.gschema.xml.h:12 ../src/empathy-preferences.ui.h:1
 msgid "Show offline contacts"
 msgstr "Mostre contats fûr rêt"
 
@@ -1043,8 +1042,8 @@ msgstr "%s al è cumò cognossût come %s"
 #. * assume it hasn't and if it has, we'll set the proper status when
 #. * we get the new handler.
 #: ../libempathy-gtk/empathy-chat.c:3079 ../src/empathy-call-window.c:1526
-#: ../src/empathy-call-window.c:1576 ../src/empathy-call-window.c:2655
-#: ../src/empathy-call-window.c:2954 ../src/empathy-event-manager.c:1141
+#: ../src/empathy-call-window.c:1576 ../src/empathy-call-window.c:2668
+#: ../src/empathy-call-window.c:2967 ../src/empathy-event-manager.c:1141
 msgid "Disconnected"
 msgstr "Distacâts"
 
@@ -1129,8 +1128,7 @@ msgstr "Contats blocâts"
 
 #: ../libempathy-gtk/empathy-contact-blocking-dialog.ui.h:3
 #: ../libempathy-gtk/empathy-status-preset-dialog.ui.h:1
-#: ../src/empathy-accounts-dialog.ui.h:2
-#: ../src/empathy-chatrooms-window.ui.h:3
+#: ../src/empathy-accounts-dialog.ui.h:2 ../src/empathy-chatrooms-window.ui.h:3
 msgid "Remove"
 msgstr "Gjave"
 
@@ -2353,15 +2351,15 @@ msgstr ""
 "\n"
 "%s"
 
-#: ../src/empathy-call.c:116
+#: ../src/empathy-call.c:115
 msgid "In a call"
 msgstr "Intune clamade"
 
-#: ../src/empathy-call.c:226
+#: ../src/empathy-call.c:223
 msgid "- Empathy Audio/Video Client"
 msgstr "- Client audio/video Empathy"
 
-#: ../src/empathy-call.c:250
+#: ../src/empathy-call.c:247
 msgid "Empathy Audio/Video Client"
 msgstr "Client Audio/Video Empathy"
 
@@ -2423,35 +2421,35 @@ msgstr "La direzion IP di un servidôr di deviazion"
 msgid "The IP address of the multicast group"
 msgstr "La direzion IP dal grup multicast"
 
-#: ../src/empathy-call-window.c:2598 ../src/empathy-call-window.c:2599
-#: ../src/empathy-call-window.c:2600 ../src/empathy-call-window.c:2601
+#: ../src/empathy-call-window.c:2611 ../src/empathy-call-window.c:2612
+#: ../src/empathy-call-window.c:2613 ../src/empathy-call-window.c:2614
 #: ../src/empathy-call-window.ui.h:28
 msgid "Unknown"
 msgstr "No cognossût"
 
-#: ../src/empathy-call-window.c:2952
+#: ../src/empathy-call-window.c:2965
 msgid "On hold"
 msgstr "In spiete"
 
-#: ../src/empathy-call-window.c:2956
+#: ../src/empathy-call-window.c:2969
 msgid "Mute"
 msgstr "Cidin"
 
-#: ../src/empathy-call-window.c:2958
+#: ../src/empathy-call-window.c:2971
 msgid "Duration"
 msgstr "Durade"
 
 #. Translators: 'status - minutes:seconds' the caller has been connected
-#: ../src/empathy-call-window.c:2961
+#: ../src/empathy-call-window.c:2974
 #, c-format
 msgid "%s — %d:%02dm"
 msgstr "%s — %d.%02dm"
 
-#: ../src/empathy-call-window.c:3057
+#: ../src/empathy-call-window.c:3070
 msgid "Technical Details"
 msgstr "Detais tecnics"
 
-#: ../src/empathy-call-window.c:3096
+#: ../src/empathy-call-window.c:3109
 #, c-format
 msgid ""
 "%s's software does not understand any of the audio formats supported by your "
@@ -2460,7 +2458,7 @@ msgstr ""
 "Il program di %s nol rive a capî nissun dai formâts audio supuartâts di "
 "chest computer"
 
-#: ../src/empathy-call-window.c:3101
+#: ../src/empathy-call-window.c:3114
 #, c-format
 msgid ""
 "%s's software does not understand any of the video formats supported by your "
@@ -2469,7 +2467,7 @@ msgstr ""
 "Il program di %s nol rive a capî nissun dai formâts video supuartâts di "
 "chest computer"
 
-#: ../src/empathy-call-window.c:3107
+#: ../src/empathy-call-window.c:3120
 #, c-format
 msgid ""
 "Can't establish a connection to %s. One of you might be on a network that "
@@ -2478,25 +2476,25 @@ msgstr ""
 "Impussibil stabilî une conession cun %s. Un dai doi al podarès sedi intune "
 "rêt che no permet conessions diretis."
 
-#: ../src/empathy-call-window.c:3113
+#: ../src/empathy-call-window.c:3126
 msgid "There was a failure on the network"
 msgstr "Al è vignût fûr un vuast te rêt"
 
-#: ../src/empathy-call-window.c:3117
+#: ../src/empathy-call-window.c:3130
 msgid ""
 "The audio formats necessary for this call are not installed on your computer"
 msgstr ""
 "I formâts audio necessaris par cheste clamade no son instalâts tal to "
 "computer"
 
-#: ../src/empathy-call-window.c:3120
+#: ../src/empathy-call-window.c:3133
 msgid ""
 "The video formats necessary for this call are not installed on your computer"
 msgstr ""
 "I formâts video necessaris par cheste clamade no son instalâts tal to "
 "computer"
 
-#: ../src/empathy-call-window.c:3132
+#: ../src/empathy-call-window.c:3145
 #, c-format
 msgid ""
 "Something unexpected happened in a Telepathy component. Please <a href=\"%s"
@@ -2507,32 +2505,32 @@ msgstr ""
 "\"%s\">Segnalâ un probleme</a> e zontâ lis informazions tiradis sù dal "
 "barcon \"Debug\" intal menù Jutori."
 
-#: ../src/empathy-call-window.c:3141
+#: ../src/empathy-call-window.c:3154
 msgid "There was a failure in the call engine"
 msgstr "Al è vignût fûr un vuast tal motôr de clamade"
 
-#: ../src/empathy-call-window.c:3144
+#: ../src/empathy-call-window.c:3157
 msgid "The end of the stream was reached"
 msgstr "Si è rivât ae fin dal flus"
 
-#: ../src/empathy-call-window.c:3184
+#: ../src/empathy-call-window.c:3197
 msgid "Can't establish audio stream"
 msgstr "Impussibil stabilî il flus audio"
 
-#: ../src/empathy-call-window.c:3194
+#: ../src/empathy-call-window.c:3207
 msgid "Can't establish video stream"
 msgstr "Impussibil stabilî il flus video"
 
-#: ../src/empathy-call-window.c:3231
+#: ../src/empathy-call-window.c:3244
 #, c-format
 msgid "Your current balance is %s."
 msgstr "Il to cont atuâl al è di %s."
 
-#: ../src/empathy-call-window.c:3235
+#: ../src/empathy-call-window.c:3248
 msgid "Sorry, you don’t have enough credit for that call."
 msgstr "No tu âs vonde credit par fâ che clamade."
 
-#: ../src/empathy-call-window.c:3237
+#: ../src/empathy-call-window.c:3250
 msgid "Top Up"
 msgstr "Ricjarie"
 
@@ -3301,42 +3299,42 @@ msgstr "Lenghe"
 #. translators: Contact name for the chat theme preview
 #: ../src/empathy-preferences.c:620
 msgid "Juliet"
-msgstr ""
+msgstr "Gjuliute"
 
 #. translators: Contact name for the chat theme preview
 #: ../src/empathy-preferences.c:627
 msgid "Romeo"
-msgstr ""
+msgstr "Romeo"
 
 #. translators: Quote from Romeo & Julier, for chat theme preview
 #: ../src/empathy-preferences.c:633
 msgid "O Romeo, Romeo, wherefore art thou Romeo?"
-msgstr ""
+msgstr "O Romeo, Romeo, parcè sêstu tu Romeo?"
 
 #. translators: Quote from Romeo & Julier, for chat theme preview
 #: ../src/empathy-preferences.c:637
 msgid "Deny thy father and refuse thy name;"
-msgstr ""
+msgstr "Dinee to pari e refude il to non;"
 
 #. translators: Quote from Romeo & Julier, for chat theme preview
 #: ../src/empathy-preferences.c:640
 msgid "Or if thou wilt not, be but sworn my love"
-msgstr ""
+msgstr "Se no, se no tu vûs, peiti nome in zurament amôr gno"
 
 #. translators: Quote from Romeo & Julier, for chat theme preview
 #: ../src/empathy-preferences.c:643
 msgid "And I'll no longer be a Capulet."
-msgstr ""
+msgstr "E jo no sarai plui une Capulêt."
 
 #. translators: Quote from Romeo & Julier, for chat theme preview
 #: ../src/empathy-preferences.c:646
 msgid "Shall I hear more, or shall I speak at this?"
-msgstr ""
+msgstr "Aio di sintî di plui, o scugnio fevelâ di chest?"
 
 #. translators: Quote from Romeo & Julier, for chat theme preview
 #: ../src/empathy-preferences.c:649
 msgid "Juliet has disconnected"
-msgstr ""
+msgstr "Gjuliute si è distacade"
 
 #: ../src/empathy-preferences.c:1015
 msgid "Preferences"
