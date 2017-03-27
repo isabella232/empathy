@@ -13,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: empathy\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-25 21:51+0100\n"
-"PO-Revision-Date: 2017-01-25 21:52+0100\n"
+"POT-Creation-Date: 2017-03-27 21:03+0200\n"
+"PO-Revision-Date: 2017-03-27 21:04+0200\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <community-poland@mozilla.org>\n"
 "Language: pl\n"
@@ -1289,8 +1289,8 @@ msgstr "Program gnome-contacts nie jest zainstalowany"
 #: ../libempathy-gtk/empathy-individual-information-dialog.c:325
 msgid "Please install gnome-contacts to access contacts details."
 msgstr ""
-"Proszę zainstalować program gnome-contacts, aby uzyskać dostęp do szczegółów "
-"kontaktów."
+"Proszę zainstalować program gnome-contacts, aby uzyskać dostęp do informacji "
+"o kontaktach."
 
 #. Translators: this is used in the context menu for a contact. The first
 #. * parameter is a contact ID (e.g. foo@jabber.org) and the second is one
@@ -1564,7 +1564,7 @@ msgstr "%s, %s"
 
 #: ../libempathy-gtk/empathy-individual-widget.c:716
 msgid "%B %e, %Y at %R UTC"
-msgstr "%e %B %Y o %H∶%M UTC"
+msgstr "%-d %B %Y o %H∶%M UTC"
 
 #. Alias
 #: ../libempathy-gtk/empathy-individual-widget.c:1359
@@ -1640,7 +1640,7 @@ msgstr "Rozmowa z użytkownikiem %s"
 #: ../libempathy-gtk/empathy-log-window.c:1348
 msgctxt "A date with the time"
 msgid "%A, %e %B %Y %X"
-msgstr "%A %e %B %Y, %X"
+msgstr "%A, %-d %B %Y, %X"
 
 #. Translators: this is an emote: '* Danielle waves'
 #: ../libempathy-gtk/empathy-log-window.c:1291
@@ -1687,7 +1687,7 @@ msgstr "Wczoraj"
 #. Translators: A date such as '23 May 2010' (strftime format)
 #: ../libempathy-gtk/empathy-log-window.c:1737
 msgid "%e %B %Y"
-msgstr "%e %B %Y"
+msgstr "%-d %B %Y"
 
 #: ../libempathy-gtk/empathy-log-window.c:1841
 #: ../libempathy-gtk/empathy-log-window.c:3464
@@ -1777,7 +1777,7 @@ msgstr "Wideo"
 
 #: ../libempathy-gtk/empathy-log-window.ui.h:8
 msgid "page 2"
-msgstr "strona 2"
+msgstr "2. strona"
 
 #: ../libempathy-gtk/empathy-log-window.ui.h:9
 msgid "<span size=\"x-large\">Loading…</span>"
@@ -2446,7 +2446,7 @@ msgstr "Czas trwania"
 #: ../src/empathy-call-window.c:2974
 #, c-format
 msgid "%s — %d:%02dm"
-msgstr "%s — %d∶%02dm"
+msgstr "%s — %d∶%02d"
 
 #: ../src/empathy-call-window.c:3070
 msgid "Technical Details"
@@ -3019,13 +3019,13 @@ msgstr ""
 #: ../src/empathy-ft-manager.c:94
 #, c-format
 msgid "%u:%02u.%02u"
-msgstr "%u∶%02u.%02u"
+msgstr "%u∶%02u∶%02u"
 
 #. Translators: time left, when is is less than one hour
 #: ../src/empathy-ft-manager.c:97
 #, c-format
 msgid "%02u.%02u"
-msgstr "%02u.%02u"
+msgstr "%02u∶%02u"
 
 #: ../src/empathy-ft-manager.c:173
 msgctxt "file transfer percent"
