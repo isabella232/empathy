@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: empathy master\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?"
 "product=empathy&keywords=I18N+L10N&component=General\n"
-"POT-Creation-Date: 2017-03-13 17:40+0000\n"
-"PO-Revision-Date: 2017-03-19 22:38+0100\n"
+"POT-Creation-Date: 2017-03-27 19:05+0000\n"
+"PO-Revision-Date: 2017-04-23 16:28+0200\n"
 "Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
 "Language-Team: Friulian <fur@li.org>\n"
 "Language: fur\n"
@@ -689,7 +689,7 @@ msgstr "Chest account al è za conetût al servidôr"
 msgid ""
 "Connection has been replaced by a new connection using the same resource"
 msgstr ""
-"La conession e je stade sostituide da une gnove conession doprant la stesse "
+"La conession e je stade sostituide di une gnove conession doprant la stesse "
 "risorse"
 
 #: ../libempathy/empathy-utils.c:307
@@ -779,7 +779,7 @@ msgstr "Il contat specificât nol è valit"
 
 #: ../libempathy-gtk/empathy-call-utils.c:50
 msgid "Emergency calls are not supported on this protocol"
-msgstr "Lis clamadis di emergjence no son supuartadis da chest protocol"
+msgstr "Lis clamadis di emergjence no son supuartadis di chest protocol"
 
 #: ../libempathy-gtk/empathy-call-utils.c:52
 msgid "You don't have enough credit in order to place this call"
@@ -1151,7 +1151,7 @@ msgstr "Nissun contat cjatât"
 
 #: ../libempathy-gtk/empathy-contact-search-dialog.c:660
 msgid "Contact search is not supported on this account"
-msgstr "La ricercje dai contats no je supuartade da chest account"
+msgstr "Chest account nol supuarte la ricercje dai contats"
 
 #: ../libempathy-gtk/empathy-contact-search-dialog.c:666
 msgid "Your message introducing yourself:"
@@ -2407,7 +2407,7 @@ msgstr "La direzion IP come che e je viodude de machine "
 
 #: ../src/empathy-call-window.c:2178
 msgid "The IP address as seen by a server on the Internet"
-msgstr "La direzion IP come che e je viodude da un servidôr su Internet"
+msgstr "La direzion IP cussì come che e je viodude di un servidôr su Internet"
 
 #: ../src/empathy-call-window.c:2180
 msgid "The IP address of the peer as seen by the other side"
