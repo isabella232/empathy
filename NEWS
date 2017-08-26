@@ -1,3 +1,22 @@
+NEW in 3.12.14 (25/08/2017)
+==============
+
+Empathy is unmaintained! Please help maintain it!
+
+New dependencies: clutter-gst-3.0, webkit2gtk-4.0
+
+Removed dependencies: clutter-gst-2.0, gnutls, webkitgtk-3.0
+
+Bugs fixed:
+ - Fixed #742720, Empathy does not honour auto-away (Christoph Lenggenhager and Michael Catanzaro)
+ - Fixed #749001, Port to webkit2 (Carlos Garcia Campos and György Balló)
+ - Fixed #751185, Use clutter-gst-3.0 (Lionel Landwerlin)
+ - Fixed #780160, Fails to connect to Google, with legacy CAs disabled, or with ca-certificates version 2.10 (Debarshi Ray)
+
+Translations:
+ - Updated fr Translation (Fabio Tomat)
+ - Updated pl Translation (Piotr Drąg)
+
 NEW in 3.12.13 (13/03/2017)
 ==============
 
