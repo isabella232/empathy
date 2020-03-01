@@ -16,10 +16,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: empathy\n"
-"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?"
-"product=empathy&keywords=I18N+L10N&component=General\n"
-"POT-Creation-Date: 2017-08-26 00:26+0000\n"
-"PO-Revision-Date: 2017-08-29 23:51+0300\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/empathy/issues\n"
+"POT-Creation-Date: 2019-12-31 11:08+0000\n"
+"PO-Revision-Date: 2020-03-01 13:08+0200\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos+l10n@iki.fi>\n"
 "Language-Team: suomi <lokalisointi-lista@googlegroups.com>\n"
 "Language: fi\n"
@@ -28,33 +27,35 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-POT-Import-Date: 2012-03-05 15:05:34+0000\n"
-"X-Generator: Poedit 1.8.7.1\n"
+"X-Generator: Poedit 2.3\n"
 
-#: ../data/empathy.desktop.in.in.h:1 ../data/empathy.appdata.xml.in.h:1
+#: ../data/org.gnome.Empathy.desktop.in.in.h:1
+#: ../data/org.gnome.Empathy.appdata.xml.in.h:1
 msgid "Empathy"
 msgstr "Empathy"
 
-#: ../data/empathy.desktop.in.in.h:2
+#: ../data/org.gnome.Empathy.desktop.in.in.h:2
 msgid "IM Client"
 msgstr "Pikaviestin"
 
-#: ../data/empathy.desktop.in.in.h:3
+#: ../data/org.gnome.Empathy.desktop.in.in.h:3
 msgid "Empathy Internet Messaging"
 msgstr "Empathy-pikaviestin"
 
-#: ../data/empathy.desktop.in.in.h:4 ../data/empathy.appdata.xml.in.h:2
+#: ../data/org.gnome.Empathy.desktop.in.in.h:4
+#: ../data/org.gnome.Empathy.appdata.xml.in.h:2
 msgid "Chat on Google Talk, Facebook, MSN and many other chat services"
 msgstr ""
 "Keskustele Google Talkissa, Facebookissa, MSN:ssä ja monissa muissa "
 "palveluissa"
 
-#: ../data/empathy.desktop.in.in.h:5
+#: ../data/org.gnome.Empathy.desktop.in.in.h:5
 msgid "chat;talk;im;message;irc;voip;gtalk;facebook;jabber;"
 msgstr ""
 "chat;talk;im;message;irc;voip;gtalk;facebook;jabber;keskustelu;viesti;"
 "pikaviestin;"
 
-#: ../data/empathy.appdata.xml.in.h:3
+#: ../data/org.gnome.Empathy.appdata.xml.in.h:3
 msgid ""
 "Empathy is the official instant messaging application of the GNOME desktop "
 "environment. Empathy can connect to AIM, MSN, Jabber (including Facebook and "
@@ -64,7 +65,7 @@ msgstr ""
 "voit yhdistää AIMiin, MSN:ään, Jabberiin (mukaan lukien Facebook ja Google "
 "Talk), IRC:hen ja moneen muuhun viestintäverkkoon."
 
-#: ../data/empathy.appdata.xml.in.h:4
+#: ../data/org.gnome.Empathy.appdata.xml.in.h:4
 msgid ""
 "You can chat with text, make audio and video calls, or even transfer files, "
 "depending on what your contact’s chat application allows."
@@ -72,7 +73,7 @@ msgstr ""
 "Voit keskustella kirjoittamalla, soittaa ääni- ja videopuheluita, tai jopa "
 "siirtää tiedostoja riippuen mitä vastapuolen keskustelusovellus sallii."
 
-#: ../data/empathy.appdata.xml.in.h:5
+#: ../data/org.gnome.Empathy.appdata.xml.in.h:5
 msgid ""
 "Empathy provides integrated messaging for the GNOME desktop, so you’ll never "
 "miss a message. You can respond to your contacts without even having to open "
@@ -1424,6 +1425,20 @@ msgstr "_Kutsu keskusteluhuoneeseen"
 msgid "_Add Contact…"
 msgstr "_Lisää tuttava…"
 
+#: ../libempathy-gtk/empathy-individual-store.h:73
+#: ../libempathy-gtk/empathy-roster-model.h:29
+msgid "Ungrouped"
+msgstr "Ryhmittelemätön"
+
+#: ../libempathy-gtk/empathy-individual-store.h:74
+msgid "Favorite People"
+msgstr "Suosikkihenkilöt"
+
+#: ../libempathy-gtk/empathy-individual-store.h:75
+#: ../libempathy-gtk/empathy-roster-model.h:28
+msgid "People Nearby"
+msgstr "Lähellä olevat ihmiset"
+
 #: ../libempathy-gtk/empathy-individual-view.c:2367
 #, c-format
 msgid "Do you really want to remove the group “%s”?"
@@ -2102,14 +2117,6 @@ msgstr "Saapuva tiedosto käyttäjältä %s"
 msgid "Top Contacts"
 msgstr "Suosituimmat tuttavat"
 
-#: ../libempathy-gtk/empathy-roster-model.h:28
-msgid "People Nearby"
-msgstr "Lähellä olevat ihmiset"
-
-#: ../libempathy-gtk/empathy-roster-model.h:29
-msgid "Ungrouped"
-msgstr "Ryhmittelemätön"
-
 #. Add a prefix explaining that something goes wrong when trying to
 #. * fetch contact's presence.
 #: ../libempathy-gtk/empathy-roster-contact.c:252
@@ -2128,7 +2135,7 @@ msgstr ""
 "Ilkka Tuohela, 2006-2009.\n"
 "Tommi Vainikainen, 2009.\n"
 "Ville-Pekka Vainio, 2010.\n"
-"Jiri Grönroos 2012, 2013, 2014, 2016\n"
+"Jiri Grönroos 2012, 2013, 2014, 2016, 2020\n"
 "\n"
 "https://l10n.gnome.org/teams/fi/\n"
 "\n"
@@ -2294,7 +2301,7 @@ msgstr "Viestintä ja VoIP-käyttäjätilit"
 
 #: ../src/empathy-accounts-dialog.ui.h:1
 msgid "Add…"
-msgstr "Lisää..."
+msgstr "Lisää…"
 
 #: ../src/empathy-accounts-dialog.ui.h:3
 msgid "_Import…"
@@ -2893,14 +2900,24 @@ msgid "Error"
 msgstr "Virhe"
 
 #: ../src/empathy-debug-window.c:1995
+#, fuzzy
+#| msgid ""
+#| "Even if they don’t display passwords, logs can contain sensitive "
+#| "information such as your list of contacts or the messages you recently "
+#| "sent or received.\n"
+#| "If you don’t want to see such information available in a public bug "
+#| "report, you can choose to limit the visibility of your bug to Empathy "
+#| "developers when reporting it by displaying the advanced fields in the <a "
+#| "href=\"https://bugzilla.gnome.org/enter_bug.cgi?product=empathy\">bug "
+#| "report</a>."
 msgid ""
 "Even if they don’t display passwords, logs can contain sensitive information "
 "such as your list of contacts or the messages you recently sent or "
 "received.\n"
 "If you don’t want to see such information available in a public bug report, "
-"you can choose to limit the visibility of your bug to Empathy developers "
-"when reporting it by displaying the advanced fields in the <a href=\"https://"
-"bugzilla.gnome.org/enter_bug.cgi?product=empathy\">bug report</a>."
+"you can choose to limit the visibility of your bug to GNOME developers when "
+"reporting it by marking the bug report as confidential in the <a href="
+"\"https://gitlab.gnome.org/GNOME/empathy/issues/new/\">bug report</a>."
 msgstr ""
 "Vaikka lokeissa ei näy salasanoja, lokit saattavat sisältää henkilökohtaisia "
 "tietoja, kuten tuttavaluettelosi tai lähettämiäsi ja vastaanottamiasi "
