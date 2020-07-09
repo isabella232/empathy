@@ -568,7 +568,7 @@ msgid ""
 "Certain accounts or account types, however, may require additional "
 "information."
 msgstr ""
-"Per a majoria de tipus de comptes només us caldrà entrar el nom d'usuari i "
+"Per a majoria de tipus de comptes només us caldrà introduir el nom d'usuari i "
 "la contrasenya. Tanmateix alguns comptes o tipus de comptes requereixen "
 "informació addicional."
 
@@ -578,7 +578,7 @@ msgstr "Afegiu un compte nou a l'<app>Empathy</app>."
 
 #: C/add-account.page:40(page/title)
 msgid "Add a new account"
-msgstr "Afegiu un compte nou"
+msgstr "Afegir un compte nou"
 
 #: C/add-account.page:42(page/p)
 msgid ""
@@ -668,7 +668,7 @@ msgstr "Phil Bull"
 
 #: C/add-contact.page:33(page/title)
 msgid "Add someone to your list of contacts"
-msgstr "Afegiu algú a la llista de contactes"
+msgstr "Afegir algú a la llista de contactes"
 
 #: C/add-contact.page:37(item/p)
 msgid "Choose <guiseq><gui>Chat</gui><gui>Add Contact</gui></guiseq>."
@@ -727,7 +727,7 @@ msgstr "Ekaterina Gerasimova"
 
 #: C/audio-call.page:35(page/title)
 msgid "Start an audio conversation"
-msgstr "Inicieu una conversa de veu"
+msgstr "Iniciar una conversa de veu"
 
 #: C/audio-call.page:37(page/p)
 msgid ""
@@ -774,7 +774,7 @@ msgstr ""
 
 #: C/audio-call.page:71(section/title)
 msgid "Start an audio conversation with a meta-contact"
-msgstr "Inicieu una conversa de veu amb un metacontacte"
+msgstr "Iniciar una conversa de veu amb un metacontacte"
 
 #: C/audio-call.page:74(item/p) C/send-message.page:53(item/p)
 #: C/video-call.page:68(item/p)
@@ -1204,7 +1204,7 @@ msgid ""
 msgstr ""
 "Alguns proveïdors de SIP us permeten fer trucades a telèfons fixes i mòbils "
 "des de l'ordinador. Normalment us cal una subscripció a un servei de "
-"pagament per poder-ho realitzar."
+"pagament per a poder-ho realitzar."
 
 #: C/create-account.page:109(section/p)
 msgid ""
@@ -1276,7 +1276,7 @@ msgstr ""
 
 #: C/disable-account.page:40(page/title)
 msgid "Disable an account"
-msgstr "Inhabiliteu un compte"
+msgstr "Inhabilitar un compte"
 
 #: C/disable-account.page:42(page/p)
 msgid ""
@@ -1316,7 +1316,7 @@ msgstr "Sales preferides"
 
 #: C/favorite-rooms.page:32(section/title)
 msgid "Set a room as a favorite"
-msgstr "Establiu una sala com a preferida"
+msgstr "Establir una sala com a preferida"
 
 #: C/favorite-rooms.page:35(item/p)
 msgid "Join a room."
@@ -1867,7 +1867,7 @@ msgstr ""
 
 #: C/hide-contacts.page:19(page/title)
 msgid "Hide offline contacts"
-msgstr "Amagueu els contactes fora de línia"
+msgstr "Amagar els contactes fora de línia"
 
 #: C/hide-contacts.page:21(page/p)
 msgid ""
@@ -1907,7 +1907,7 @@ msgstr "Peter Haslam"
 
 #: C/import-account.page:42(page/title)
 msgid "Import an existing account"
-msgstr "Importeu un compte existent"
+msgstr "Importar un compte existent"
 
 #: C/import-account.page:44(page/p)
 msgid ""
@@ -2035,11 +2035,11 @@ msgstr "Totes les ordres disponibles tenen una petita descripció del seu ús."
 
 #: C/irc-join-pwd.page:9(info/desc)
 msgid "Enter password-protected IRC chat rooms."
-msgstr "Entreu la contrasenya per les sales de xat de l'IRC."
+msgstr "Introduir la contrasenya per les sales de xat de l'IRC."
 
 #: C/irc-join-pwd.page:25(page/title)
 msgid "Join a protected IRC chat room"
-msgstr "Entreu en una sala de xat d'IRC protegida."
+msgstr "Entrar en una sala de xat d'IRC protegida"
 
 #: C/irc-join-pwd.page:27(page/p)
 msgid ""
@@ -2099,7 +2099,7 @@ msgstr ""
 
 #: C/irc-join-room.page:57(item/p)
 msgid "Click <gui>Join</gui> to enter the room."
-msgstr "Feu clic a <gui>Entra</gui> per entrar a la sala."
+msgstr "Feu clic a <gui>Entra</gui> per a entrar a la sala."
 
 #: C/irc-join-room.page:64(note/p)
 msgid ""
@@ -2211,7 +2211,7 @@ msgstr ""
 
 #: C/irc-send-file.page:31(page/title)
 msgid "Send files over IRC"
-msgstr "Enviament de fitxer a través de l'IRC."
+msgstr "Enviar fitxers a través de l'IRC."
 
 #: C/irc-send-file.page:33(page/p)
 msgid "It is not currently possible to send files using IRC."
@@ -2223,7 +2223,7 @@ msgstr "Inicieu una conversa amb un contacte de l'IRC."
 
 #: C/irc-start-conversation.page:30(page/title)
 msgid "Chat with somebody on IRC"
-msgstr "Xategeu amb algú a l'IRC"
+msgstr "Xatejar amb algú a l'IRC"
 
 #: C/irc-start-conversation.page:32(page/p)
 msgid ""
@@ -2431,7 +2431,7 @@ msgstr "Repetiu els passos 3 i 4 per enllaçar altres comptes."
 
 #: C/link-contacts.page:92(section/title)
 msgid "Unlink contacts"
-msgstr "Desenllaceu contactes"
+msgstr "Desenllaçar contactes"
 
 #: C/link-contacts.page:93(section/p)
 msgid "To unlink a linked contact:"
@@ -2604,7 +2604,7 @@ msgstr ""
 
 #: C/prev-conv.page:53(section/title)
 msgid "Search previous conversations"
-msgstr "Cerqueu a les converses anteriors"
+msgstr "Cercar a les converses anteriors"
 
 #: C/prev-conv.page:55(section/p)
 msgid ""
@@ -2914,7 +2914,7 @@ msgstr "Suprimeix un compte completament de l'<app>Empathy</app>."
 
 #: C/remove-account.page:34(page/title)
 msgid "Remove an account"
-msgstr "Suprimiu un compte"
+msgstr "Suprimir un compte"
 
 #: C/remove-account.page:36(page/p)
 msgid ""
@@ -3396,7 +3396,7 @@ msgid ""
 "chat with your contacts. You can set a custom message for this status."
 msgstr ""
 "Utilitzeu l'estat <em>Disponible</em> quan esteu a l'ordinador i esteu "
-"disponibles per xatejar. Podeu configurar un missatge personalitzat per "
+"disponibles per xatejar. Podeu configurar un missatge personalitzat per a "
 "aquest estat."
 
 #: C/status-icons.page:45(item/title)
@@ -3419,7 +3419,7 @@ msgstr ""
 "xatejar ara. Encara podran xatejar si volen, per exemple si tenen alguna "
 "cosa urgent a comentar-vos. Per defecte, l'<app>Empathy</app> no utilitzarà "
 "finestres emergents ni sons quan esteu ocupats. Podeu configurar un missatge "
-"personalitzat per aquest estat."
+"personalitzat per a aquest estat."
 
 #: C/status-icons.page:53(item/title)
 msgid ""
@@ -3441,7 +3441,7 @@ msgstr ""
 "L'<app>Empathy</app> us posa automàticament l'estat «Absent» si esteu un "
 "temps sense utilitzar l'ordinador o si s'activa l'estalvi de pantalla. Per "
 "defecte, l'<app>Empathy</app> no utilitzarà finestres emergents ni sons quan "
-"esteu absents. Podeu configurar un missatge personalitzat per aquest estat."
+"esteu absents. Podeu configurar un missatge personalitzat per a aquest estat."
 
 #: C/status-icons.page:62(item/title)
 msgid ""
@@ -3483,7 +3483,7 @@ msgstr "Inicieu una conversa de vídeo amb un dels contactes."
 
 #: C/video-call.page:37(page/title)
 msgid "Start a video conversation"
-msgstr "Inicieu una conversa de vídeo"
+msgstr "Iniciar una conversa de vídeo"
 
 #: C/video-call.page:39(page/p)
 msgid ""
