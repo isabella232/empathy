@@ -665,7 +665,7 @@ msgstr "Error en el certificat"
 
 #: ../libempathy/empathy-utils.c:288
 msgid "Encryption is not available"
-msgstr "L'encriptació no està disponible"
+msgstr "El xifratge no està disponible"
 
 #: ../libempathy/empathy-utils.c:290
 msgid "Certificate is invalid"
@@ -3544,7 +3544,7 @@ msgid ""
 msgstr ""
 "La cancel·lació de l'eco permet que l'altra persona senti la vostra veu "
 "millor, però pot no funcionar bé en alguns ordinadors. Si sentiu o senten "
-"alguns sorolls estranys o petits talls, proveu a desactivar la cancel·lació "
+"alguns sorolls estranys o petits talls, proveu de desactivar la cancel·lació "
 "de l'eco i tornar a trucar."
 
 #: ../src/empathy-preferences.ui.h:30
