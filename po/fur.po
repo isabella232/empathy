@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: empathy master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/empathy/issues\n"
-"POT-Creation-Date: 2020-03-28 20:41+0000\n"
-"PO-Revision-Date: 2020-05-19 11:51+0200\n"
+"POT-Creation-Date: 2020-10-10 12:31+0000\n"
+"PO-Revision-Date: 2020-10-18 13:16+0200\n"
 "Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
 "Language-Team: Friulian <f.t.public@gmail.com>\n"
 "Language: fur\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #: ../data/org.gnome.Empathy.desktop.in.in.h:1
 #: ../data/org.gnome.Empathy.appdata.xml.in.h:1
@@ -1268,8 +1268,8 @@ msgstr "Sigûrs di blocâ “%s” par che no ti torni a contatâ ancjemò?"
 #: ../libempathy-gtk/empathy-individual-dialogs.c:244
 msgid "The following identity will be blocked:"
 msgid_plural "The following identities will be blocked:"
-msgstr[0] "Cheste identitât e vegnarà blocade:"
-msgstr[1] "Chestis identitâts a vegnaran blocadis:"
+msgstr[0] "Cheste identitât e vignarà blocade:"
+msgstr[1] "Chestis identitâts a vignaran blocadis:"
 
 #: ../libempathy-gtk/empathy-individual-dialogs.c:251
 msgid "The following identity can not be blocked:"
@@ -2676,7 +2676,7 @@ msgid ""
 "Closing this window will leave %s. You will not receive any further messages "
 "until you rejoin it."
 msgstr ""
-"Sierant chest barcon al vegnarà lassât %s. No tu ricevarâs nissun altri "
+"Sierant chest barcon al vignarà lassât %s. No tu ricevarâs nissun altri "
 "messaç fintremai che no tu tornis a jentrâ."
 
 #. Note to translators: the number of chats will
@@ -2691,10 +2691,10 @@ msgid_plural ""
 "Closing this window will leave %u chat rooms. You will not receive any "
 "further messages until you rejoin them."
 msgstr[0] ""
-"Sierant chest barcon al vegnarà lassade une stanzie. No tu ricevarâs nissun "
+"Sierant chest barcon al vignarà lassade une stanzie. No tu ricevarâs nissun "
 "ulteriôr messaç fintremai che no tu tornis a jentrâ te stanzie."
 msgstr[1] ""
-"Sierant chest barcon a vegnaran lassadis %u stanziis. No tu ricevarâs nissun "
+"Sierant chest barcon a vignaran lassadis %u stanziis. No tu ricevarâs nissun "
 "ulteriôr messaç fintremai che no tu tornis a jentrâ tes stanziis."
 
 #: ../src/empathy-chat-window.c:309
@@ -3468,7 +3468,7 @@ msgid ""
 "decimal place."
 msgstr ""
 "Ridusi la precision gjeografiche a significhe nie di plui precîs de tô "
-"citât, regjon e Paîs al vegnarà publicât. Lis coordinadis e saran di une "
+"citât, regjon e Paîs al vignarà publicât. Lis coordinadis e saran di une "
 "posizion decimâl."
 
 #. To translators: The longitude and latitude are rounded to closest 0,1 degrees, so for example 146,2345° is rounded to round(146,2345*10)/10 = 146,2 degrees.
