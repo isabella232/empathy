@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: empathy-help gnome-3-12\n"
-"POT-Creation-Date: 2020-11-02 11:17+0000\n"
-"PO-Revision-Date: 2020-11-09 14:24+0700\n"
+"Project-Id-Version: empathy-help master\n"
+"POT-Creation-Date: 2020-11-02 11:18+0000\n"
+"PO-Revision-Date: 2020-11-09 14:33+0700\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <gnome-l10n-id@googlegroups.com>\n"
 "Language: id\n"
@@ -2103,11 +2103,17 @@ msgstr "Jendela utama <app>Empathy</app>"
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/introduction.page:41
+#| msgctxt "_"
+#| msgid ""
+#| "external ref='figures/empathy-main-window.png' "
+#| "md5='54908dcb2588beddb15ef0968d2c2582'"
 msgctxt "_"
 msgid ""
 "external ref='figures/empathy-main-window.png' "
-"md5='54908dcb2588beddb15ef0968d2c2582'"
-msgstr "-"
+"md5='6f5e0ccab794dce0c9fba09c903d4ff8'"
+msgstr ""
+"external ref='figures/empathy-main-window.png' "
+"md5='6f5e0ccab794dce0c9fba09c903d4ff8'"
 
 #. (itstool) path: media/p
 #: C/introduction.page:42
@@ -2147,7 +2153,7 @@ msgstr "Masuk ruang obrolan IRC yang dilindungi sandi."
 #. (itstool) path: page/title
 #: C/irc-join-pwd.page:25
 msgid "Join a protected IRC chat room"
-msgstr "Bergabung ke suatu ruang obrolan IRC"
+msgstr "Bergabung ke suatu ruang obrolan IRC yang terlindungi"
 
 #. (itstool) path: page/p
 #: C/irc-join-pwd.page:27
@@ -2319,7 +2325,6 @@ msgstr "Untuk menata suatu kata sandi server IRC:"
 msgid "Select the IRC account from the list on the left of the dialog."
 msgstr "Pilih akun yang ingin Anda ubah dari daftar di kiri."
 
-# typo: nikcname -> nickname
 #. (itstool) path: item/p
 #: C/irc-nick-password.page:57
 msgid ""
@@ -2691,23 +2696,8 @@ msgstr ""
 "IM dengan menggunakan <link xref=\"add-account\">akun</link> dari penyedia "
 "layanan yang berbeda. Beberapa bahkan mendukung panggilan audio dan video."
 
-#. (itstool) path: td/p
-#: C/overview.page:43
-msgid "Video Conference"
-msgstr "Konferensi Video"
-
-#. (itstool) path: td/p
-#: C/overview.page:44
-msgid "Group chats"
-msgstr "Perbincangan kelompok"
-
-#. (itstool) path: td/p
-#: C/overview.page:45
-msgid "Chat rooms"
-msgstr "Ruang mengobrol"
-
 #. (itstool) path: page/p
-#: C/overview.page:49
+#: C/overview.page:36
 msgid ""
 "Some instant messaging applications can be used to connect to chat rooms, "
 "online places where like-minded people meet to talk. One popular means to "
