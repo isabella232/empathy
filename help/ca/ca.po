@@ -39,8 +39,7 @@ msgstr "Missatgeria d'Internet Empathy"
 
 #: C/index.page:20(credit/name) C/add-account.page:21(credit/name)
 #: C/audio-call.page:22(credit/name) C/audio-video.page:17(credit/name)
-#: C/create-account.page:19(credit/name)
-#: C/disable-account.page:21(credit/name)
+#: C/create-account.page:19(credit/name) C/disable-account.page:21(credit/name)
 #: C/favorite-rooms.page:14(credit/name) C/geolocation.page:17(credit/name)
 #: C/geolocation-not-showing.page:17(credit/name)
 #: C/geolocation-privacy.page:17(credit/name)
@@ -141,17 +140,14 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#.
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#.
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#.
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
@@ -177,13 +173,12 @@ msgstr ""
 
 #: C/account-irc.page:8(info/desc)
 msgid "Additional information necessary for connecting to IRC networks."
-msgstr "Informació addicional per connectar-se a xarxes d'IRC."
+msgstr "Informació addicional per a connectar-se a xarxes d'IRC."
 
 #: C/account-irc.page:16(credit/name) C/account-jabber.page:14(credit/name)
 #: C/accounts-window.page:18(credit/name) C/add-account.page:25(credit/name)
-#: C/disable-account.page:25(credit/name)
-#: C/import-account.page:27(credit/name) C/prev-conv.page:21(credit/name)
-#: C/status-icons.page:20(credit/name)
+#: C/disable-account.page:25(credit/name) C/import-account.page:27(credit/name)
+#: C/prev-conv.page:21(credit/name) C/status-icons.page:20(credit/name)
 msgid "Shaun McCance"
 msgstr "Shaun McCance"
 
@@ -199,7 +194,7 @@ msgid ""
 "account."
 msgstr ""
 "Els comptes d'IRC requereixen una informació diferent que els altres tipus "
-"de comptes. Per crear un compte d'IRC heu d'especificar com a mínim una "
+"de comptes. Per a crear un compte d'IRC heu d'especificar com a mínim una "
 "xarxa d'IRC i un sobrenom. Aquesta pàgina descriu la informació que podeu "
 "proporcionar pel compte d'IRC."
 
@@ -208,7 +203,7 @@ msgid ""
 "You must have the <sys>telepathy-idle</sys> package installed to use IRC in "
 "<app>Empathy</app>."
 msgstr ""
-"Heu de tenir instal·lat el paquet <sys>telepathy-idle</sys> per utilitzar "
+"Heu de tenir instal·lat el paquet <sys>telepathy-idle</sys> per a utilitzar "
 "l'IRC amb l'<app>Empathy</app>."
 
 #: C/account-irc.page:45(item/title) C/account-irc.page:120(item/title)
@@ -254,9 +249,9 @@ msgid ""
 "connect. If you are authorized to use the network, the network "
 "administrators should provide you with a password."
 msgstr ""
-"Per connectar-se a alguns servidors, en especial els de les xarxes privades, "
-"us farà falta una contrasenya. Si esteu autoritzat a utilitzar la xarxa, els "
-"seus administradors us en proporcionaran la contrasenya."
+"Per a connectar-se a alguns servidors, en especial els de les xarxes "
+"privades, us farà falta una contrasenya. Si esteu autoritzat a utilitzar la "
+"xarxa, els seus administradors us en proporcionaran la contrasenya."
 
 #: C/account-irc.page:65(note/title)
 msgid "NickServ Passwords"
@@ -275,7 +270,7 @@ msgstr ""
 "a NickServ. L'<app>Empathy</app> encara no permet utilitzar sobrenoms amb "
 "contrasenyes. En algunes xarxes, entre elles la popular xarxa freenode, els "
 "servidors de contrasenyes es reenvien automàticament al NickServ, de manera "
-"que podeu establir aquest camp per identificar-vos amb el NickServ. Vegeu "
+"que podeu establir aquest camp per a identificar-vos amb el NickServ. Vegeu "
 "<link xref=\"irc-nick-password\"/> per més informació."
 
 #: C/account-irc.page:76(item/title)
@@ -301,8 +296,8 @@ msgid ""
 "field to provide a custom quit message."
 msgstr ""
 "Quan sortiu, s'enviarà un missatge a totes les sales de xat que estigueu i "
-"tots els usuaris amb els quals tingueu xats privats. Utilitzeu aquest camp per "
-"proporcionar un missatge de sortida personalitzat."
+"tots els usuaris amb els quals tingueu xats privats. Utilitzeu aquest camp "
+"per a proporcionar un missatge de sortida personalitzat."
 
 #: C/account-irc.page:94(info/title)
 msgctxt "link"
@@ -329,7 +324,7 @@ msgid ""
 "src=\"figures/gtk-add.png\" width=\"16\" height=\"16\">Add</media>."
 msgstr ""
 "Feu clic a <media type=\"image\" mime=\"image/png\" src=\"figures/gtk-add.png"
-"\" width=\"16\" height=\"16\">Afegeix</media> per afegir una xarxa a la "
+"\" width=\"16\" height=\"16\">Afegeix</media> per a afegir una xarxa a la "
 "llista."
 
 #: C/account-irc.page:107(item/p)
@@ -350,7 +345,7 @@ msgid ""
 msgstr ""
 "Seleccioneu una xarxa de la llista i feu clic a <media type=\"image\" mime="
 "\"image/png\" src=\"figures/gtk-remove.png\" width=\"16\" height="
-"\"16\">Suprimeix</media> per suprimir una xarxa de la llista."
+"\"16\">Suprimeix</media> per a suprimir una xarxa de la llista."
 
 #: C/account-irc.page:115(section/p)
 msgid ""
@@ -378,10 +373,10 @@ msgid ""
 "correctly."
 msgstr ""
 "Això especifica la codificació de caràcters que s'utilitza en aquesta xarxa. "
-"Una codificació de caràcters és un format específic per enregistrar "
+"Una codificació de caràcters és un format específic per a enregistrar "
 "caràcters internament a l'ordinador. Hi ha moltes codificacions de caràcters "
-"i heu d'utilitzar la mateixa que els altres usuaris per veure els missatges "
-"de forma correcta."
+"i heu d'utilitzar la mateixa que els altres usuaris per a veure els "
+"missatges de forma correcta."
 
 #: C/account-irc.page:135(item/p)
 msgid ""
@@ -418,9 +413,9 @@ msgid ""
 "to focus the field, and press the space bar to begin editing."
 msgstr ""
 "Quan seleccioneu un servidor feu clic al camp de <gui>Servidor</gui> o "
-"<gui>Port</gui> per editar-lo. També ho podeu fer amb les tecles de "
-"navegació de cap a la dreta i de cap a l'esquerra per donar el focus al camp "
-"i si feu clic a la barra espaiadora editareu el camp."
+"<gui>Port</gui> per a editar-lo. També ho podeu fer amb les tecles de "
+"navegació de cap a la dreta i de cap a l'esquerra per a donar el focus al "
+"camp i si feu clic a la barra espaiadora editareu el camp."
 
 #: C/account-irc.page:151(item/p)
 msgid ""
@@ -428,7 +423,7 @@ msgid ""
 "communication with a server. Note that this does not prevent other users on "
 "the network from seeing what you write on public chat rooms."
 msgstr ""
-"Seleccioneu la casella de selecció de la columna <gui>SSL</gui> per xifrar "
+"Seleccioneu la casella de selecció de la columna <gui>SSL</gui> per a xifrar "
 "totes les comunicacions amb el servidor. Adoneu-vos que això no impedirà que "
 "altres usuaris de la xarxa puguin veure el que escriviu en un xat públic."
 
@@ -448,8 +443,8 @@ msgid ""
 "will not need to use the advanced options below. For general instructions on "
 "adding an account, see <link xref=\"add-account\"/>."
 msgstr ""
-"Per connectar-se a la majoria de comptes de Jabber només fa falta el nom "
-"d'usuari i la contrasenya. Tot i així, per alguns comptes o tipus de xarxes "
+"Per a connectar-se a la majoria de comptes de Jabber només fa falta el nom "
+"d'usuari i la contrasenya. Tot i això, per alguns comptes o tipus de xarxes "
 "haureu d'introduir informació addicional a la secció <gui>Avançada</gui>. "
 "Normalment, no us farà falta utilitzar les opcions avançades. Vegeu <link "
 "xref=\"add-account\"/> per les instruccions generals de com afegir comptes."
@@ -493,7 +488,7 @@ msgid ""
 msgstr ""
 "Alguns servidors de Jabber xifren les dades amb certificats no vàlids o "
 "d'autoritats no reconegudes. Si confieu en el servidor al que us connecteu, "
-"podeu seleccionar <gui>Ignora els errors del certificat SSL</gui> per "
+"podeu seleccionar <gui>Ignora els errors del certificat SSL</gui> per a "
 "permetre la comunicació xifrada amb certificats no vàlids."
 
 #: C/account-jabber.page:59(item/title)
@@ -512,9 +507,9 @@ msgid ""
 "<input>Telepathy</input> as the resource."
 msgstr ""
 "Si teniu més d'una aplicació (en ordinadors diferents) connectats al mateix "
-"temps al mateix compte, podeu configurar un recurs per identificar de forma "
-"inequívoca cadascun d'ells. Per defecte l'<app>Empathy</app> utilitzarà "
-"<input>Telepathy</input> com a recurs."
+"temps al mateix compte, podeu configurar un recurs per a identificar de "
+"forma inequívoca cadascun d'ells. Per defecte l'<app>Empathy</app> "
+"utilitzarà <input>Telepathy</input> com a recurs."
 
 #: C/account-jabber.page:65(item/p)
 msgid ""
@@ -522,7 +517,7 @@ msgid ""
 "incoming messages from your contacts. New messages will be sent to the "
 "application with the highest priority."
 msgstr ""
-"Podeu establir la prioritat per especificar quina aplicació rebrà els "
+"Podeu establir la prioritat per a especificar quina aplicació rebrà els "
 "missatges entrants dels contactes. Els missatges nous s'enviaran a "
 "l'aplicació que tingui la màxima prioritat."
 
@@ -538,7 +533,7 @@ msgid ""
 "by your Jabber provider."
 msgstr ""
 "L'<app>Empathy</app> utilitza els paràmetres per defecte, basant-se en el "
-"nom d'usuari, per connectar-se al servidor de Jabber. Per alguns servidors "
+"nom d'usuari, per a connectar-se al servidor de Jabber. Per alguns servidors "
 "de Jabber us caldrà introduir els paràmetres del servidor manualment. "
 "Aquests paràmetres els hauria de proporcionar el proveïdor de Jabber."
 
@@ -568,8 +563,8 @@ msgid ""
 "Certain accounts or account types, however, may require additional "
 "information."
 msgstr ""
-"Per a majoria de tipus de comptes només us caldrà introduir el nom d'usuari i "
-"la contrasenya. Tanmateix alguns comptes o tipus de comptes requereixen "
+"Per a majoria de tipus de comptes només us caldrà introduir el nom d'usuari "
+"i la contrasenya. Tanmateix alguns comptes o tipus de comptes requereixen "
 "informació addicional."
 
 #: C/add-account.page:9(info/desc)
@@ -649,7 +644,7 @@ msgid ""
 "name or press the space bar. Edit the account name and press <key>Enter</"
 "key> when you’re finished."
 msgstr ""
-"Per canviar el nom que identifica el compte a la finestra <gui>Comptes</"
+"Per a canviar el nom que identifica el compte a la finestra <gui>Comptes</"
 "gui>, seleccioneu el compte des de la llista de l'esquerra i feu clic sobre "
 "el nom o premeu la barra espaiadora. Editeu el nom del compte i feu clic a "
 "<key>Retorn</key> quan hageu acabat."
@@ -682,8 +677,8 @@ msgid ""
 "service as the account you select."
 msgstr ""
 "Des de la llista desplegable del <gui>Compte</gui>, seleccioneu el compte "
-"que voleu utilitzar per connectar-vos amb el contacte. Haurà d'utilitzar el "
-"mateix servei que el compte que seleccioneu."
+"que voleu utilitzar per a connectar-vos amb el contacte. Haurà d'utilitzar "
+"el mateix servei que el compte que seleccioneu."
 
 #: C/add-contact.page:45(item/p)
 msgid ""
@@ -705,7 +700,7 @@ msgstr ""
 #: C/add-contact.page:53(item/p)
 msgid "Click <gui>Add</gui> to add the person to your list of contacts."
 msgstr ""
-"Feu clic a <gui>Afegeix</gui> per afegir el contacte a la llista de "
+"Feu clic a <gui>Afegeix</gui> per a afegir el contacte a la llista de "
 "contactes."
 
 #: C/add-contact.page:61(note/p)
@@ -713,8 +708,8 @@ msgid ""
 "To add a new person to your list of contacts, you need to be connected to "
 "the Internet and to your account."
 msgstr ""
-"Per afegir una persona nova a la llista de contactes heu d'estar connectat a "
-"Internet i al compte."
+"Per a afegir una persona nova a la llista de contactes heu d'estar connectat "
+"a Internet i al compte."
 
 #: C/audio-call.page:10(info/desc)
 msgid "Call your contacts over the Internet."
@@ -761,14 +756,14 @@ msgid ""
 "To end the conversation, click the <gui style=\"button\">hand up</gui> "
 "button."
 msgstr ""
-"Per acabar la conversa feu clic al botó <gui style=\"button\">Penja</gui>."
+"Per a acabar la conversa feu clic al botó <gui style=\"button\">Penja</gui>."
 
 #: C/audio-call.page:63(note/p)
 msgid ""
 "To turn an audio conversation into a video conversation, choose <guiseq><gui "
 "style=\"menu\">Video</gui> <gui style=\"menuitem\">Video On</gui></guiseq>."
 msgstr ""
-"Per convertir una conversa de veu en una conversa de vídeo, escolliu "
+"Per a convertir una conversa de veu en una conversa de vídeo, escolliu "
 "<guiseq><gui style=\"menu\">Vídeo</gui> <gui style=\"menuitem\">Activa el "
 "vídeo</gui></guiseq>."
 
@@ -789,8 +784,8 @@ msgid ""
 "Select the contact you want to have the conversation, and from the menu "
 "select <gui style=\"menuitem\">Audio Call</gui>."
 msgstr ""
-"Seleccioneu el contacte amb el qual voleu mantenir la conversa i des del menú "
-"seleccioneu <gui style=\"menuitem\">Trucada de veu</gui>."
+"Seleccioneu el contacte amb el qual voleu mantenir la conversa i des del "
+"menú seleccioneu <gui style=\"menuitem\">Trucada de veu</gui>."
 
 #: C/audio-call.page:86(note/p) C/send-message.page:65(note/p)
 #: C/video-call.page:80(note/p)
@@ -882,15 +877,15 @@ msgid ""
 "In order to have an audio conversation, you need to have a sound card that "
 "is supported by your operating system, and a working microphone."
 msgstr ""
-"Per realitzar una conversa de veu heu de tenir una targeta de so reconeguda "
-"pel sistema operatiu i un micròfon que funcioni."
+"Per a realitzar una conversa de veu heu de tenir una targeta de so "
+"reconeguda pel sistema operatiu i un micròfon que funcioni."
 
 #: C/audio-video.page:87(note/p)
 msgid ""
 "In order to have a video conversation, you need to have a webcam that is "
 "supported by your operating system, and a working microphone."
 msgstr ""
-"Per realitzar una conversa de vídeo heu de tenir una càmera web reconeguda "
+"Per a realitzar una conversa de vídeo heu de tenir una càmera web reconeguda "
 "pel sistema operatiu i un micròfon que funcioni."
 
 #: C/audio-video.page:95(section/title)
@@ -1025,7 +1020,7 @@ msgstr "zephyr"
 
 #: C/change-status.page:9(info/desc)
 msgid "Change your status to advertise your availability to your contacts."
-msgstr "Canvieu l'estat per avisar la disponibilitat als contactes."
+msgstr "Canvieu l'estat per a avisar la disponibilitat als contactes."
 
 #: C/change-status.page:39(page/title)
 msgid "Change your status"
@@ -1036,7 +1031,7 @@ msgid ""
 "You can set your status to indicate your availability to your contacts. "
 "<app>Empathy</app> allows you to select from a list of defined statuses."
 msgstr ""
-"Podeu canviar l'estat per indicar la disponibilitat als contactes. "
+"Podeu canviar l'estat per a indicar la disponibilitat als contactes. "
 "L'<app>Empathy</app> us permet seleccionar-ne un d'una llista d'estats per "
 "defecte."
 
@@ -1058,10 +1053,10 @@ msgid ""
 "status messages</link> to provide more information about your availability "
 "to your contacts."
 msgstr ""
-"Vegeu <link xref=\"status-icons\"/> per veure la llista d'estats possibles i "
-"què signifiquen. També podeu <link xref=\"set-custom-status\">afegir "
-"missatges d'estat personalitzats</link> per proporcionar informació sobre la "
-"disponibilitat als contactes."
+"Vegeu <link xref=\"status-icons\"/> per a veure la llista d'estats possibles "
+"i què signifiquen. També podeu <link xref=\"set-custom-status\">afegir "
+"missatges d'estat personalitzats</link> per a proporcionar informació sobre "
+"la disponibilitat als contactes."
 
 #: C/change-status.page:63(note/p)
 msgid ""
@@ -1103,7 +1098,7 @@ msgstr ""
 "Aquesta pàgina proporciona informació sobre la creació de comptes nous de "
 "tipologia variada. El vostre proveïdor de comptes hauria de donar-vos un nom "
 "d'usuari i una contrasenya, així com qualsevol informació addicional que us "
-"pugui fer falta per connectar-vos amb l'<app>Empathy</app>."
+"pugui fer falta per a connectar-vos amb l'<app>Empathy</app>."
 
 #: C/create-account.page:47(section/title)
 msgid "Facebook"
@@ -1123,8 +1118,8 @@ msgid ""
 "new account from the website: <link href=\"http://www.facebook.com\">www."
 "facebook.com</link>."
 msgstr ""
-"Per utilitzar Facebook per comunicar-vos amb els vostres amics, us cal crear "
-"un compte nou al lloc web: <link href=\"http://www.facebook.com\">www."
+"Per a utilitzar Facebook per comunicar-vos amb els vostres amics, us cal "
+"crear un compte nou al lloc web: <link href=\"http://www.facebook.com\">www."
 "facebook.com</link>."
 
 #: C/create-account.page:62(section/p)
@@ -1156,8 +1151,8 @@ msgid ""
 msgstr ""
 "Si sou usuaris del Google Mail o del Google Talk, ja teniu un compte de "
 "Jabber. El Google Talk és un servei de Jabber. Només us cal utilitzar "
-"l'adreça i la contrasenya de Google Mail per connectar-vos a l'<app>Empathy</"
-"app>."
+"l'adreça i la contrasenya de Google Mail per a connectar-vos a "
+"l'<app>Empathy</app>."
 
 #: C/create-account.page:80(section/p)
 msgid ""
@@ -1166,10 +1161,10 @@ msgid ""
 "such as a wireless hotspot. It automatically finds all other users on the "
 "network who are also using this service."
 msgstr ""
-"No us cal crear cap compte a cap proveïdor de serveis per utilitzar aquesta "
-"característica. Aquest servei funciona sempre que estigueu connectats a una "
-"xarxa d'àrea local, com un punt d'accés Wi-Fi. Us mostra tots els usuaris "
-"que fan servir aquest mateix servei de forma automàtica."
+"No us cal crear cap compte a cap proveïdor de serveis per a utilitzar "
+"aquesta característica. Aquest servei funciona sempre que estigueu "
+"connectats a una xarxa d'àrea local, com un punt d'accés Wi-Fi. Us mostra "
+"tots els usuaris que fan servir aquest mateix servei de forma automàtica."
 
 #: C/create-account.page:85(section/p)
 msgid "For more information, see <link xref=\"salut-protocol\"/>."
@@ -1213,7 +1208,7 @@ msgid ""
 "is only established each time you connect. If another user is using the "
 "nickname, you will need to choose a new nickname."
 msgstr ""
-"No us cal registrar un compte per utilitzar l'IRC. Encara que especifiqueu "
+"No us cal registrar un compte per a utilitzar l'IRC. Encara que especifiqueu "
 "un sobrenom quan afegiu el compte d'IRC a l'<app>Empathy</app>, aquest "
 "sobrenom només s'utilitza cada vegada que us connecteu. Si un altre usuari "
 "està utilitzant aquest sobrenom, us caldrà canviar el sobrenom."
@@ -1223,9 +1218,9 @@ msgid ""
 "Some IRC networks use a service called NickServ to allow users to protect "
 "their nicknames. See <link xref=\"irc-nick-password\"/> for more information."
 msgstr ""
-"Algunes xarxes d'IRC utilitzen un servei anomenat NickServ per permetre als "
-"usuaris protegir el seu sobrenom. Vegeu <link xref=\"irc-nick-password\"/> "
-"per a més informació."
+"Algunes xarxes d'IRC utilitzen un servei anomenat NickServ per a permetre "
+"als usuaris protegir el seu sobrenom. Vegeu <link xref=\"irc-nick-password\"/"
+"> per a més informació."
 
 #: C/create-account.page:117(section/p)
 msgid ""
@@ -1233,7 +1228,7 @@ msgid ""
 "to connect to these servers. Generally, these are private IRC networks."
 msgstr ""
 "Alguns servidors d'IRC estan protegits amb contrasenya. Haureu de saber la "
-"contrasenya per connectar-vos-hi. Generalment són xarxes d'IRC privades."
+"contrasenya per a connectar-vos-hi. Generalment són xarxes d'IRC privades."
 
 #: C/create-account.page:122(section/title)
 msgid "Proprietary Services"
@@ -1249,8 +1244,8 @@ msgid ""
 msgstr ""
 "Hi ha molts serveis de missatgeria instantània propietaris desenvolupats per "
 "diverses organitzacions o empreses. L'<app>Empathy</app> us permet connectar-"
-"vos a comptes existent de molts serveis populars. Per crear-vos-hi un compte "
-"nou haureu de visitar el lloc web i acceptar la llicència d'ús."
+"vos a comptes existent de molts serveis populars. Per a crear-vos-hi un "
+"compte nou haureu de visitar el lloc web i acceptar la llicència d'ús."
 
 #: C/create-account.page:132(item/p)
 msgid "<link href=\"http://dashboard.aim.com/aim\">AIM</link>"
@@ -1285,9 +1280,9 @@ msgid ""
 "enable an account if you only want to be logged in to the account at certain "
 "times, but you still want to use <app>Empathy</app> for other accounts."
 msgstr ""
-"Podeu inhabilitar un compte per evitar que l'<app>Empathy</app> es connecti "
-"sense esborrar completament el compte. Podeu desactivar i reactivar el "
-"compte si només voleu connectar-vos al compte esporàdicament, però encara "
+"Podeu inhabilitar un compte per a evitar que l'<app>Empathy</app> es "
+"connecti sense esborrar completament el compte. Podeu desactivar i reactivar "
+"el compte si només voleu connectar-vos al compte esporàdicament, però encara "
 "voleu utilitzar l'<app>Empathy</app> per altres comptes."
 
 #: C/disable-account.page:53(item/p)
@@ -1304,7 +1299,7 @@ msgstr "A la part dreta de la finestra, inhabiliteu-lo."
 
 #: C/disable-account.page:62(page/p)
 msgid "To re-enable the account, switch it on."
-msgstr "Per tornar a activar el compte, habiliteu-lo."
+msgstr "Per a tornar a activar el compte, habiliteu-lo."
 
 #: C/favorite-rooms.page:10(info/desc)
 msgid "Set, join and manage favorite rooms."
@@ -1327,16 +1322,16 @@ msgid ""
 "See <link xref=\"irc-join-room\"/> for more information on how to join an "
 "IRC room."
 msgstr ""
-"Per saber-ne més de com entrar en una sala d'IRC vegeu <link xref=\"irc-join-"
-"room\"/>."
+"Per a saber-ne més de com entrar en una sala d'IRC vegeu <link xref=\"irc-"
+"join-room\"/>."
 
 #: C/favorite-rooms.page:46(item/p)
 msgid ""
 "See <link xref=\"group-conversations\"/> for more information on how to "
 "start or join a group conversation."
 msgstr ""
-"Per saber-ne més de com iniciar o unir-se a una conversa de grup vegeu <link "
-"xref=\"group-conversations\"/>."
+"Per a saber-ne més de com iniciar o unir-se a una conversa de grup vegeu "
+"<link xref=\"group-conversations\"/>."
 
 #: C/favorite-rooms.page:54(item/p)
 msgid ""
@@ -1366,7 +1361,7 @@ msgid ""
 "all your favorite rooms."
 msgstr ""
 "Escolliu <guiseq><gui>Sala</gui><gui>Uneix-te als preferits</gui></guiseq>, "
-"per entrar a totes les sales preferides."
+"per a entrar a totes les sales preferides."
 
 #: C/favorite-rooms.page:82(item/p)
 msgid "Choose <gui>Room</gui>, and select the favorite room you want to join."
@@ -1379,7 +1374,7 @@ msgid ""
 "To join a favorite room, you need to be connected to the Internet and to "
 "your account."
 msgstr ""
-"Per entrar a una sala preferida us cal estar connectat a Internet i a un "
+"Per a entrar a una sala preferida us cal estar connectat a Internet i a un "
 "compte."
 
 #: C/favorite-rooms.page:98(section/title)
@@ -1404,7 +1399,7 @@ msgstr ""
 
 #: C/favorite-rooms.page:111(item/p)
 msgid "Select <gui>All</gui> to see all you favorite rooms."
-msgstr "Seleccioneu <gui>Totes</gui> per veure totes les sales preferides."
+msgstr "Seleccioneu <gui>Totes</gui> per a veure totes les sales preferides."
 
 #: C/favorite-rooms.page:116(item/p)
 msgid "Select the favorite room you want to manage:"
@@ -1415,13 +1410,13 @@ msgid ""
 "Select the <gui>Auto-Connect</gui> check-box in order to automatically join "
 "that room when you connect to your account."
 msgstr ""
-"Seleccioneu la caixa de verificació <gui>Connecta automàticament</gui> per "
+"Seleccioneu la caixa de verificació <gui>Connecta automàticament</gui> per a "
 "entrar de forma automàtica a la sala quan us connecteu amb el compte."
 
 #: C/favorite-rooms.page:127(item/p)
 msgid "Click on <gui>Remove</gui> to remove the room from your favorites."
 msgstr ""
-"Feu clic a <gui>Suprimeix</gui> per esborrar la sala de la llista de "
+"Feu clic a <gui>Suprimeix</gui> per a esborrar la sala de la llista de "
 "preferides."
 
 #: C/favorite-rooms.page:134(item/p)
@@ -1484,7 +1479,7 @@ msgid ""
 "PEP</link> is maintained online. Google Talk does not support this feature "
 "at this time."
 msgstr ""
-"Per publicar la posició geogràfica, el servidor de Jabber ha d'implementar "
+"Per a publicar la posició geogràfica, el servidor de Jabber ha d'implementar "
 "el Protocol personal d'esdeveniments (PEP). Hi ha una llista actualitzada de "
 "<link href=\"http://coccinella.im/servers/servers_by_pubsub_pep.html"
 "\">servidors que implementen el PEP</link> en línia. El Google Talk encara "
@@ -1604,7 +1599,7 @@ msgid ""
 "account."
 msgstr ""
 "La característica de la geolocalització, de moment, només és compatible amb "
-"el servei de Jabber. Per utilitzar-la fa falta que tant vós com els "
+"el servei de Jabber. Per a utilitzar-la fa falta que tant vós com els "
 "contactes tinguin un compte de Jabber."
 
 #: C/geolocation-supported.page:39(note/p)
@@ -1615,7 +1610,7 @@ msgid ""
 msgstr ""
 "És necessari que el servidor que esteu utilitzant també habiliti la "
 "característica de la geolocalització. Molt servidors de Jabber ja ho tenen "
-"habilitat. Per saber-ne més mireu la documentació del servei web."
+"habilitat. Per a saber-ne més mireu la documentació del servei web."
 
 #: C/geolocation-supported.page:47(section/title)
 msgid "Compatibility"
@@ -1663,8 +1658,8 @@ msgid ""
 "To increase the accuracy of your position, deselect <gui>Reduce location "
 "accuracy</gui>."
 msgstr ""
-"Per augmentar l'exactitud de la vostra posició, desseleccioneu <gui>Redueix "
-"la precisió de la localització</gui>."
+"Per a augmentar l'exactitud de la vostra posició, desseleccioneu "
+"<gui>Redueix la precisió de la localització</gui>."
 
 #: C/geolocation-turn.page:61(item/p)
 msgid ""
@@ -1719,7 +1714,7 @@ msgid ""
 "In order to see your contacts’ geographical locations, they need to use a "
 "service and an application that supports geolocation."
 msgstr ""
-"Per veure les localitzacions geogràfiques dels contactes els caldrà un "
+"Per a veure les localitzacions geogràfiques dels contactes els caldrà un "
 "servei i una aplicació que faci ús de la geolocalització."
 
 #: C/group-conversations.page:8(info/desc)
@@ -1743,7 +1738,7 @@ msgid ""
 "To have a group conversation you need to have a registered account with "
 "either Jabber or Google Talk, or a People Nearby account."
 msgstr ""
-"Per mantenir una conversa de grup us cal tindre un compte registrat a "
+"Per a mantenir una conversa de grup us cal tindre un compte registrat a "
 "Jabber, a Google Talk o a Gent propera."
 
 #: C/group-conversations.page:46(note/p)
@@ -1758,8 +1753,8 @@ msgstr ""
 msgid "Start a group conversation"
 msgstr "Com iniciar una conversa de grup"
 
-#: C/group-conversations.page:58(item/p)
-#: C/group-conversations.page:122(item/p) C/irc-join-room.page:39(item/p)
+#: C/group-conversations.page:58(item/p) C/group-conversations.page:122(item/p)
+#: C/irc-join-room.page:39(item/p)
 msgid ""
 "From the <gui>Contact List</gui> window, choose <guiseq><gui>Room</"
 "gui><gui>Join</gui></guiseq>."
@@ -1773,7 +1768,7 @@ msgid ""
 "use for the group conversation."
 msgstr ""
 "Des de la llista desplegable <gui>Compte</gui> trieu el compte que vulgueu "
-"utilitzar per la conversa de grup."
+"utilitzar per a la conversa de grup."
 
 #: C/group-conversations.page:69(item/p)
 msgid ""
@@ -1810,7 +1805,7 @@ msgid ""
 "<gui>Contact List</gui> window, select the contact you want to invite, and "
 "perform one of the following:"
 msgstr ""
-"Per convidar altres contactes a unir-se a la conversa de grup, seleccioneu "
+"Per a convidar altres contactes a unir-se a la conversa de grup, seleccioneu "
 "el contacte que voleu convidar des de la finestra <gui>Llista de contactes</"
 "gui> i feu el següent:"
 
@@ -1833,7 +1828,7 @@ msgid ""
 "If you have more than one group conversation open, select the one you want "
 "to invite your contacts."
 msgstr ""
-"Si teniu més d'una conversa de grup oberta, seleccioneu la que vulgueu per "
+"Si teniu més d'una conversa de grup oberta, seleccioneu la que vulgueu per a "
 "convidar els contactes."
 
 #: C/group-conversations.page:118(section/title)
@@ -1843,7 +1838,7 @@ msgstr "Uniu-vos a una conversa de grup"
 #: C/group-conversations.page:128(item/p)
 msgid "Expand the <gui>Room List</gui> section to see all the existing rooms."
 msgstr ""
-"Expandiu la secció <gui>Llista de sales</gui> per veure totes les sales "
+"Expandiu la secció <gui>Llista de sales</gui> per a veure totes les sales "
 "existents."
 
 #: C/group-conversations.page:133(item/p)
@@ -1857,8 +1852,8 @@ msgid ""
 "support these kind of rooms."
 msgstr ""
 "No és possible entrar a totes les sales existents. Algunes sales poden "
-"requerir una contrasenya o una invitació per entrar-hi. L'<app>Empathy</app> "
-"encara no permet utilitzar aquest tipus de sales."
+"requerir una contrasenya o una invitació per a entrar-hi. L'<app>Empathy</"
+"app> encara no permet utilitzar aquest tipus de sales."
 
 #: C/hide-contacts.page:8(info/desc)
 msgid "Hide the offline contacts from your <gui>Contact List</gui>."
@@ -1879,7 +1874,7 @@ msgstr ""
 
 #: C/hide-contacts.page:25(page/p)
 msgid "To hide the contacts that are offline:"
-msgstr "Per amagar els contactes que són fora de línia:"
+msgstr "Per a amagar els contactes que són fora de línia:"
 
 #: C/hide-contacts.page:31(item/p)
 msgid ""
@@ -1894,7 +1889,7 @@ msgstr ""
 #: C/hide-contacts.page:36(item/p)
 msgid "To show the offline contacts again, repeat the same procedure above."
 msgstr ""
-"Per tornar a mostrar els contactes fora de línia, repetiu els mateixos "
+"Per a tornar a mostrar els contactes fora de línia, repetiu els mateixos "
 "passos descrits aquí sobre."
 
 #: C/import-account.page:10(info/desc)
@@ -1917,8 +1912,8 @@ msgid ""
 msgstr ""
 "La primera vegada que executeu l'<app>Empathy</app> us oferirà la importació "
 "dels comptes d'una altra aplicació de missatgeria instantània. Ara mateix "
-"l'única aplicació des de la qual es poden importar comptes és el <app>Pidgin</"
-"app>."
+"l'única aplicació des de la qual es poden importar comptes és el "
+"<app>Pidgin</app>."
 
 #: C/import-account.page:50(item/p)
 msgid ""
@@ -1926,7 +1921,7 @@ msgid ""
 "number of options to create new accounts."
 msgstr ""
 "Executeu l'<app>Empathy</app> per primer cop. Un assistent us oferirà unes "
-"quantes opcions per crear comptes nous."
+"quantes opcions per a crear comptes nous."
 
 #: C/import-account.page:54(item/p)
 msgid ""
@@ -2026,7 +2021,7 @@ msgid ""
 "To see the list of the supported IRC commands, in a chat room type <input>/"
 "help</input> and press <key>Enter</key>."
 msgstr ""
-"Per veure la llista d'ordres interpretades per l'IRC escriviu, en una sala "
+"Per a veure la llista d'ordres interpretades per l'IRC escriviu, en una sala "
 "de xat, <input>/help</input> i premeu <key>Retorn</key>."
 
 #: C/irc-commands.page:24(note/p)
@@ -2076,7 +2071,7 @@ msgid ""
 "account\"/> and <link xref=\"account-irc\"/>."
 msgstr ""
 "Podeu unir-vos a sales de xat de l'IRC (també conegudes com canals de l'IRC) "
-"a qualsevol xarxa d'IRC a la qual estigueu connectat. Per connectar-vos a "
+"a qualsevol xarxa d'IRC a la qual estigueu connectat. Per a connectar-vos a "
 "una xarxa d'IRC, vegeu <link xref=\"add-account\"/> i <link xref=\"account-"
 "irc\"/>."
 
@@ -2105,8 +2100,8 @@ msgstr "Feu clic a <gui>Entra</gui> per a entrar a la sala."
 msgid ""
 "To join multiple rooms, you need to repeat the steps above for each room."
 msgstr ""
-"Per entrar en més d'una sala, haureu de repetir els passos de sobre per cada "
-"sala."
+"Per a entrar en més d'una sala, haureu de repetir els passos de sobre per "
+"cada sala."
 
 #: C/irc-manage.page:9(info/desc)
 msgid "How to use IRC with <app>Empathy</app>."
@@ -2174,12 +2169,12 @@ msgstr ""
 "L'<app>Empathy</app> no suporta el registre de sobrenoms. Algunes xarxes "
 "d'IRC, tanmateix, us enviaran de forma automàtica una <em>contrasenya de "
 "servidor</em> al NickServ. En aquestes xarxes, podeu utilitzar la "
-"contrasenya d'IRC a l'<app>Empathy</app> per identificar-vos amb NickServ. "
+"contrasenya d'IRC a l'<app>Empathy</app> per a identificar-vos amb NickServ. "
 "La popular xarxa freenode és coneguda per aquesta característica."
 
 #: C/irc-nick-password.page:46(page/p)
 msgid "To set an IRC server password:"
-msgstr "Per establir una contrasenya de servidor d'IRC:"
+msgstr "Per a establir una contrasenya de servidor d'IRC:"
 
 #: C/irc-nick-password.page:54(item/p)
 msgid "Select the IRC account from the list on the left of the dialog."
@@ -2231,7 +2226,8 @@ msgid ""
 "public IRC chat rooms. To start a conversation with another IRC user:"
 msgstr ""
 "Podeu mantenir converses privades amb altres usuaris de l'IRC fora de la "
-"sala pública de l'IRC. Per iniciar una conversa amb un altre usuari de l'IRC:"
+"sala pública de l'IRC. Per a iniciar una conversa amb un altre usuari de "
+"l'IRC:"
 
 #: C/irc-start-conversation.page:37(item/p)
 msgid ""
@@ -2251,8 +2247,8 @@ msgid ""
 msgstr ""
 "La llista de contactes de la sala de l'IRC no és la mateixa que la llista de "
 "contactes de l'<app>Empathy</app>. Aquesta conté la llista d'usuaris de la "
-"sala de l'IRC a la qual us heu unit. Cada sala tindrà una llista de contactes "
-"diferent."
+"sala de l'IRC a la qual us heu unit. Cada sala tindrà una llista de "
+"contactes diferent."
 
 #: C/irc-start-conversation.page:52(item/p)
 msgid ""
@@ -2315,7 +2311,7 @@ msgid ""
 "of the work)."
 msgstr ""
 "Cal que reconegueu el treball de la forma especificada per l'autor o el "
-"llicenciatari (però no de forma que suggereixi que us dóna suport personal o "
+"llicenciatari (però no de forma que suggereixi que us dona suport personal o "
 "de l'ús del treball)."
 
 #: C/license.page:46(item/title)
@@ -2338,7 +2334,7 @@ msgid ""
 "link>, or read the full <link href=\"http://creativecommons.org/licenses/by-"
 "sa/3.0/\">Commons Deed</link>."
 msgstr ""
-"Per veure el text de la llicència completa vegeu el <link href=\"http://"
+"Per a veure el text de la llicència completa vegeu el <link href=\"http://"
 "creativecommons.org/licenses/by-sa/3.0/legalcode\">Lloc web de Creative "
 "Commons </link>, o llegiu la pàgina <link href=\"http://creativecommons.org/"
 "licenses/by-sa/3.0/\">Commons Deed</link>."
@@ -2409,9 +2405,9 @@ msgid ""
 "Press the tick button to select entries you want to link. This will enable "
 "<em>selection mode</em> and you can see a checkbox for each entry."
 msgstr ""
-"Feu clic al botó de «vist» per seleccionar les entrades que voleu enllaçar. "
-"Haureu habilitat el <em>mode de selecció</em>, veureu que cada element té "
-"una casella de selecció."
+"Feu clic al botó de «vist» per a seleccionar les entrades que voleu "
+"enllaçar. Haureu habilitat el <em>mode de selecció</em>, veureu que cada "
+"element té una casella de selecció."
 
 #: C/link-contacts.page:75(item/p)
 msgid ""
@@ -2427,7 +2423,7 @@ msgstr "Feu clic a <gui style=\"button\">Enllaça</gui>."
 
 #: C/link-contacts.page:86(section/p)
 msgid "Repeat steps 3 and 4 in order to link other contacts."
-msgstr "Repetiu els passos 3 i 4 per enllaçar altres comptes."
+msgstr "Repetiu els passos 3 i 4 per a enllaçar altres comptes."
 
 #: C/link-contacts.page:92(section/title)
 msgid "Unlink contacts"
@@ -2435,7 +2431,7 @@ msgstr "Desenllaçar contactes"
 
 #: C/link-contacts.page:93(section/p)
 msgid "To unlink a linked contact:"
-msgstr "Per desenllaçar un contacte enllaçat:"
+msgstr "Per a desenllaçar un contacte enllaçat:"
 
 #: C/link-contacts.page:98(item/p)
 msgid "Select the contact from your list."
@@ -2458,8 +2454,8 @@ msgid ""
 "Press <gui style=\"button\">Remove</gui> to unlink an entry from the linked "
 "contact."
 msgstr ""
-"Feu clic a <gui style=\"button\">Suprimeix</gui> per desenllaçar una entrada "
-"del metacontacte."
+"Feu clic a <gui style=\"button\">Suprimeix</gui> per a desenllaçar una "
+"entrada del metacontacte."
 
 #: C/link-contacts.page:118(item/p)
 msgid ""
@@ -2472,7 +2468,8 @@ msgstr ""
 #: C/link-contacts.page:123(item/p)
 msgid "Finally, press <gui style=\"button\">Done</gui> to finish editing."
 msgstr ""
-"Per acabar, feu clic a <gui style=\"button\">Fet</gui> per acabar l'edició."
+"Per a acabar, feu clic a <gui style=\"button\">Fet</gui> per a acabar "
+"l'edició."
 
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -2565,14 +2562,15 @@ msgid ""
 "on the IRC Server, and private chat rooms, which are <link xref=\"irc-join-"
 "pwd\">password protected</link> and open only to a select few."
 msgstr ""
-"Algunes aplicacions de missatgeria instantània es poden utilitzar per "
+"Algunes aplicacions de missatgeria instantània es poden utilitzar per a "
 "connectar-se a sales de xat, llocs en línia on persones amb les mateixes "
-"inquietuds es troben per parlar. Una de les vies més populars per connectar-"
-"se a moltes sales de xat és l'Internet Relay Chat, també conegut com <link "
-"xref=\"irc-manage\">IRC</link>. L'IRC proporciona sales <link xref=\"irc-"
-"join-room\">públiques</link> de xat, obertes a tothom que tingui un compte "
-"al servidor de l'IRC i sales privades de xat protegides amb <link xref=\"irc-"
-"join-pwd\">contrasenya</link> i obertes només a un cert grup de persones."
+"inquietuds es troben per parlar. Una de les vies més populars per a "
+"connectar-se a moltes sales de xat és l'Internet Relay Chat, també conegut "
+"com <link xref=\"irc-manage\">IRC</link>. L'IRC proporciona sales <link xref="
+"\"irc-join-room\">públiques</link> de xat, obertes a tothom que tingui un "
+"compte al servidor de l'IRC i sales privades de xat protegides amb <link "
+"xref=\"irc-join-pwd\">contrasenya</link> i obertes només a un cert grup de "
+"persones."
 
 #: C/prev-conv.page:8(info/desc)
 msgid "Browse or search your previous conversations."
@@ -2599,7 +2597,7 @@ msgid ""
 "You do not need to be connected to the Internet to view and search your "
 "previous conversations."
 msgstr ""
-"No us cal estar connectat a Internet per visualitzar i cercar a les "
+"No us cal estar connectat a Internet per a visualitzar i cercar a les "
 "converses anteriors."
 
 #: C/prev-conv.page:53(section/title)
@@ -2669,7 +2667,7 @@ msgid ""
 "Select a contact or chat room to view your previous conversations from. By "
 "default the most recent conversation will be shown."
 msgstr ""
-"Seleccioneu un contacte o una sala de xat per veure'n les converses "
+"Seleccioneu un contacte o una sala de xat per a veure'n les converses "
 "anteriors. Per defecte es mostrarà la conversa més recent."
 
 #: C/prev-conv.page:99(item/p)
@@ -2681,8 +2679,8 @@ msgid ""
 msgstr ""
 "Podeu navegar per les converses per data. Els dies en els quals heu "
 "mantingut converses amb el contacte es mostraran amb negreta. Feu clic a una "
-"data per seleccionar-la. Feu clic a les fletxes al costat del mes i de l'any "
-"per navegar entre dates."
+"data per a seleccionar-la. Feu clic a les fletxes al costat del mes i de "
+"l'any per a navegar entre dates."
 
 #: C/prev-conv.page:105(section/p)
 msgid ""
@@ -2809,8 +2807,8 @@ msgid ""
 "Deselect the <gui>Enabled</gui>, and then select it again to try to "
 "reconnect to the service."
 msgstr ""
-"Desactiveu <gui>Activat</gui> i torneu-lo a activar de nou per comprovar si "
-"es reconnecta el servei."
+"Desactiveu <gui>Activat</gui> i torneu-lo a activar de nou per a comprovar "
+"si es reconnecta el servei."
 
 #: C/prob-conn-name.page:9(info/title)
 msgctxt "link:error-msg"
@@ -2856,7 +2854,7 @@ msgid ""
 "Switch the account off, and then switch it on to try to reconnect to the "
 "service."
 msgstr ""
-"Desactiveu el compte i torneu-lo a activar de nou per intentar que es "
+"Desactiveu el compte i torneu-lo a activar de nou per a intentar que es "
 "connecti de nou al servei."
 
 #: C/prob-conn-neterror.page:7(info/desc)
@@ -2970,7 +2968,7 @@ msgid ""
 "need to connect and authenticate to a central server in order to use it."
 msgstr ""
 "El servei de «Gent propera» és un servei de comunicació descentralitzat: no "
-"us cal estar connectat ni autenticar-vos amb un servidor central per "
+"us cal estar connectat ni autenticar-vos amb un servidor central per a "
 "utilitzar-lo."
 
 #: C/salut-protocol.page:45(page/p)
@@ -3037,7 +3035,7 @@ msgid ""
 "to halt the transfer."
 msgstr ""
 "Espereu que el contacte accepti la transferència del fitxer o feu clic a "
-"<gui>Atura</gui> per aturar la transferència."
+"<gui>Atura</gui> per a aturar la transferència."
 
 #: C/send-file.page:72(item/p)
 msgid ""
@@ -3070,8 +3068,8 @@ msgid ""
 "In order to send a file to someone, you need to be connected to the "
 "Internet, or to a local area network."
 msgstr ""
-"Per enviar un fitxer a algú us cal estar connectat a Internet o a una xarxa "
-"d'àrea local."
+"Per a enviar un fitxer a algú us cal estar connectat a Internet o a una "
+"xarxa d'àrea local."
 
 #: C/send-message.page:8(info/desc)
 msgid "Send a message to one of your contacts."
@@ -3095,7 +3093,7 @@ msgid ""
 "window and press <key>Enter</key> to send it."
 msgstr ""
 "S'obrirà una finestra nova. Teclegeu el missatge a la caixa a la part "
-"inferior de la finestra i premeu <key>Retorn</key> per enviar-lo."
+"inferior de la finestra i premeu <key>Retorn</key> per a enviar-lo."
 
 #: C/send-message.page:50(section/title)
 msgid "Send a message to a meta-contact"
@@ -3127,7 +3125,7 @@ msgid ""
 "to let people know that you will be unavailable for a certain period of time."
 msgstr ""
 "A vegades voleu deixar un missatge personalitzat pel vostre estat, per "
-"exemple per fer saber als contactes que no estareu disponible durant una "
+"exemple per a fer saber als contactes que no estareu disponible durant una "
 "estona."
 
 #: C/set-custom-status.page:40(page/p)
@@ -3149,8 +3147,8 @@ msgid ""
 "Select the status you want to add a custom message to. You have to select "
 "the one identified with the label <gui>Custom Message</gui>."
 msgstr ""
-"Seleccioneu l'estat al qual voleu afegir-li el missatge personalitzat. Heu de "
-"seleccionar el que està identificat amb l'etiqueta <gui>Missatge "
+"Seleccioneu l'estat al qual voleu afegir-li el missatge personalitzat. Heu "
+"de seleccionar el que està identificat amb l'etiqueta <gui>Missatge "
 "personalitzat</gui>."
 
 #: C/set-custom-status.page:58(item/p)
@@ -3159,7 +3157,7 @@ msgid ""
 "press <key>Enter</key> to set the message."
 msgstr ""
 "Introduïu el missatge personalitzat a la caixa de text de dalt de la "
-"finestra i premeu <key>Retorn</key> per establir el missatge."
+"finestra i premeu <key>Retorn</key> per a establir el missatge."
 
 #: C/set-custom-status.page:64(item/p)
 msgid ""
@@ -3167,7 +3165,7 @@ msgid ""
 "use it again, click on the little heart on the right of the text box where "
 "you wrote your custom message."
 msgstr ""
-"Si voleu establir el missatge personalitzat com a preferit, per poder-lo "
+"Si voleu establir el missatge personalitzat com a preferit, per a poder-lo "
 "utilitzar en un altre moment, feu clic al cor petit a la dreta de la caixa "
 "de text on heu escrit el missatge personalitzat."
 
@@ -3190,7 +3188,7 @@ msgstr "Seleccioneu <gui>Edita el missatge personalitzat</gui>."
 
 #: C/set-custom-status.page:95(item/p)
 msgid "To edit a custom message:"
-msgstr "Per editar un missatge personalitzat:"
+msgstr "Per a editar un missatge personalitzat:"
 
 #: C/set-custom-status.page:100(item/p)
 msgid ""
@@ -3208,7 +3206,7 @@ msgstr ""
 
 #: C/set-custom-status.page:113(item/p)
 msgid "To remove a custom message:"
-msgstr "Per suprimir un missatge personalitzat:"
+msgstr "Per a suprimir un missatge personalitzat:"
 
 #: C/set-custom-status.page:118(item/p)
 msgid ""
@@ -3248,7 +3246,7 @@ msgid ""
 "this functionality to show your desktop to your contacts to, for example, "
 "ask for help or help your contacts resolve a problem."
 msgstr ""
-"Podeu compartir l'escriptori amb algun contacte. Podeu utilitzar-ho per "
+"Podeu compartir l'escriptori amb algun contacte. Podeu utilitzar-ho per a "
 "mostrar l'escriptori als contactes, per exemple per demanar-los ajuda o "
 "ajudar-los a resoldre un problema."
 
@@ -3258,7 +3256,7 @@ msgid ""
 "support for the feature, installed on your system. <app>Vino</app>, the "
 "GNOME VNC server, has the required support."
 msgstr ""
-"Per poder compartir l'escriptori, cal que tingueu instal·lat al sistema un "
+"Per a poder compartir l'escriptori, cal que tingueu instal·lat al sistema un "
 "servidor de VNC que permeti aquesta funció. El <app>Vino</app>, el servidor "
 "de VNC del GNOME, ja ho permet."
 
@@ -3362,7 +3360,6 @@ msgstr "external ref='figures/away.png' md5='9c504d6ffa0cf1a9cc8933d16e1bea33'"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#.
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
@@ -3415,7 +3412,7 @@ msgid ""
 "not use notification bubbles and sounds when you are busy. You can set a "
 "custom message for this status."
 msgstr ""
-"Utilitzeu l'estat <em>Ocupat</em> per mostrar als contactes que no voleu "
+"Utilitzeu l'estat <em>Ocupat</em> per a mostrar als contactes que no voleu "
 "xatejar ara. Encara podran xatejar si volen, per exemple si tenen alguna "
 "cosa urgent a comentar-vos. Per defecte, l'<app>Empathy</app> no utilitzarà "
 "finestres emergents ni sons quan esteu ocupats. Podeu configurar un missatge "
@@ -3492,10 +3489,10 @@ msgid ""
 "accounts, and it requires the other person to have an application that "
 "supports video calls."
 msgstr ""
-"Si teniu una càmera web, podeu trucar els contactes i tindre una videoconferència "
-"amb ells. Aquesta característica sols funciona amb certs tipus "
-"de comptes, i requereix que l'altra persona tingui una aplicació que permeti "
-"fer vídeo trucades."
+"Si teniu una càmera web, podeu trucar els contactes i tindre una "
+"videoconferència amb ells. Aquesta característica sols funciona amb certs "
+"tipus de comptes, i requereix que l'altra persona tingui una aplicació que "
+"permeti fer vídeo trucades."
 
 #: C/video-call.page:46(item/p)
 msgid ""
@@ -3509,14 +3506,14 @@ msgstr ""
 msgid ""
 "To end the conversation, click on the <gui style=\"button\">hang up</gui> "
 "button."
-msgstr "Per acabar la conversa feu clic a <gui style=\"button\">Penja</gui>."
+msgstr "Per a acabar la conversa feu clic a <gui style=\"button\">Penja</gui>."
 
 #: C/video-call.page:60(note/p)
 msgid ""
 "To turn a video conversation into an audio conversation, choose <guiseq><gui "
 "style=\"menu\">Video</gui><gui style=\"menuitem\">Video Off</gui></guiseq>."
 msgstr ""
-"Per canviar d'una conversa de vídeo a una conversa de veu, escolliu "
+"Per a canviar d'una conversa de vídeo a una conversa de veu, escolliu "
 "<guiseq><gui style=\"menu\">Vídeo</gui><gui style=\"menuitem\">Apaga el "
 "vídeo</gui></guiseq>."
 
