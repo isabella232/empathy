@@ -84,7 +84,7 @@ msgid ""
 "Whether connectivity managers should be used to automatically disconnect/"
 "reconnect."
 msgstr ""
-"Si s'ha d'utilitzar el gestor de connexions per desconnectar/tornar a "
+"Si s'ha d'utilitzar el gestor de connexions per a desconnectar/tornar a "
 "connectar automàticament."
 
 #: ../data/org.gnome.Empathy.gschema.xml.h:3
@@ -114,10 +114,12 @@ msgstr "Carpeta predeterminada de les baixades de l'Empathy"
 msgid "The default folder to save file transfers in."
 msgstr "La carpeta predeterminada on es desaran els fitxers transferits."
 
-#. translators: Automatic tasks which are run once to port/update account settings. Ideally, this shouldn't be exposed to users at all, we just use a gsettings key here as an optimization to only run it only once.
+#. translators: Automatic tasks which are run once to port/update account
+#. settings. Ideally, this shouldn't be exposed to users at all, we just use a
+#. gsettings key here as an optimization to only run it only once.
 #: ../data/org.gnome.Empathy.gschema.xml.h:10
 msgid "Magic number used to check if sanity cleaning tasks should be run"
-msgstr "Número màgic per comprovar si s'han d'executar les tasques de neteja"
+msgstr "Número màgic per a comprovar si s'han d'executar les tasques de neteja"
 
 #: ../data/org.gnome.Empathy.gschema.xml.h:11
 msgid ""
@@ -206,7 +208,7 @@ msgstr "Utilitza sons de notificació"
 
 #: ../data/org.gnome.Empathy.gschema.xml.h:29
 msgid "Whether to play a sound to notify of events."
-msgstr "Si s'ha de reproduir un so per notificar esdeveniments."
+msgstr "Si s'ha de reproduir un so per a notificar esdeveniments."
 
 #: ../data/org.gnome.Empathy.gschema.xml.h:30
 msgid "Disable sounds when away"
@@ -248,7 +250,8 @@ msgstr "Reprodueix un so quan entri algun contacte"
 #: ../data/org.gnome.Empathy.gschema.xml.h:39
 msgid "Whether to play a sound to notify of contacts logging into the network."
 msgstr ""
-"Si s'ha de reproduir un so per notificar que els contactes entren a la xarxa."
+"Si s'ha de reproduir un so per a notificar que els contactes entren a la "
+"xarxa."
 
 #: ../data/org.gnome.Empathy.gschema.xml.h:40
 msgid "Play a sound when a contact logs out"
@@ -258,7 +261,7 @@ msgstr "Reprodueix un so quan surti algun contacte"
 msgid ""
 "Whether to play a sound to notify of contacts logging out of the network."
 msgstr ""
-"Si s'ha de reproduir un so per notificar que els contactes surten de la "
+"Si s'ha de reproduir un so per a notificar que els contactes surten de la "
 "xarxa."
 
 #: ../data/org.gnome.Empathy.gschema.xml.h:42
@@ -305,7 +308,7 @@ msgid ""
 "the chat is already opened, but not focused."
 msgstr ""
 "Si s'han de mostrar notificacions emergents quan es rebi un esdeveniment de "
-"missatge nou i el xat ja estigui obert però no tingui el focus."
+"missatge nou i el xat ja estigui obert, però no tingui el focus."
 
 #: ../data/org.gnome.Empathy.gschema.xml.h:52
 msgid "Pop up notifications when a contact logs in"
@@ -348,7 +351,8 @@ msgstr "Tema de la finestra de xat"
 
 #: ../data/org.gnome.Empathy.gschema.xml.h:61
 msgid "The theme that is used to display the conversation in chat windows."
-msgstr "El tema que s'utilitza per mostrar la conversa a les finestres de xat."
+msgstr ""
+"El tema que s'utilitza per a mostrar la conversa a les finestres de xat."
 
 #: ../data/org.gnome.Empathy.gschema.xml.h:62
 msgid "Chat window theme variant"
@@ -358,7 +362,7 @@ msgstr "Variant del tema de la finestra de xat"
 msgid ""
 "The theme variant that is used to display the conversation in chat windows."
 msgstr ""
-"La variant del tema que s'utilitza per mostrar la conversa a les finestres "
+"La variant del tema que s'utilitza per a mostrar la conversa a les finestres "
 "de xat."
 
 #: ../data/org.gnome.Empathy.gschema.xml.h:64
@@ -458,8 +462,8 @@ msgstr "Últim compte seleccionat en el diàleg d'unir-se a una sala"
 #: ../data/org.gnome.Empathy.gschema.xml.h:81
 msgid "D-Bus object path of the last account selected to join a room."
 msgstr ""
-"El camí a l'objecte de D-Bus de l'últim compte seleccionat per unir-se a una "
-"sala."
+"El camí a l'objecte de D-Bus de l'últim compte seleccionat per a unir-se a "
+"una sala."
 
 #: ../data/org.gnome.Empathy.gschema.xml.h:82
 msgid "Camera device"
@@ -551,7 +555,7 @@ msgstr "Motiu desconegut"
 
 #: ../libempathy/empathy-ft-handler.c:895
 msgid "File transfer completed, but the file was corrupted"
-msgstr "S'ha completat la transferència però el fitxer és malmès"
+msgstr "S'ha completat la transferència, però el fitxer és malmès"
 
 #: ../libempathy/empathy-ft-handler.c:1176
 msgid "File transfer not supported by remote contact"
@@ -702,7 +706,7 @@ msgstr "Ja existeix aquest compte al servidor"
 
 #: ../libempathy/empathy-utils.c:305
 msgid "Server is currently too busy to handle the connection"
-msgstr "El servidor està massa ocupat per gestionar la connexió"
+msgstr "El servidor està massa ocupat per a gestionar la connexió"
 
 #: ../libempathy/empathy-utils.c:307
 msgid "Certificate has been revoked"
@@ -737,7 +741,7 @@ msgstr "Tots els comptes"
 
 #: ../libempathy-gtk/empathy-avatar-image.c:353
 msgid "Click to enlarge"
-msgstr "Feu clic per fer-la més gran"
+msgstr "Feu clic per a fer-la més gran"
 
 #: ../libempathy-gtk/empathy-bad-password-dialog.c:128
 #, c-format
@@ -787,7 +791,7 @@ msgstr "Aquest protocol no permet fer trucades d'emergència"
 
 #: ../libempathy-gtk/empathy-call-utils.c:52
 msgid "You don’t have enough credit in order to place this call"
-msgstr "No teniu prou saldo per fer aquesta trucada"
+msgstr "No teniu prou saldo per a fer aquesta trucada"
 
 #: ../libempathy-gtk/empathy-chat.c:732
 msgid "Failed to open private chat"
@@ -851,9 +855,9 @@ msgid ""
 "send a message starting with a “/”. For example: “/say /join is used to join "
 "a new chat room”"
 msgstr ""
-"/say <missatge>: envia el <missatge> a la conversa actual. S'utilitza per "
+"/say <missatge>: envia el <missatge> a la conversa actual. S'utilitza per a "
 "enviar un missatge que comenci per «/». Per exemple: «/say /join s'utilitza "
-"per entrar a una sala de xat nova»"
+"per a entrar a una sala de xat nova»"
 
 #: ../libempathy-gtk/empathy-chat.c:1088
 msgid "/whois <contact ID>: display information about a contact"
@@ -883,7 +887,7 @@ msgstr "Ordre desconeguda, vegeu /help per a la llista d'ordres disponibles"
 
 #: ../libempathy-gtk/empathy-chat.c:1536
 msgid "insufficient balance to send message"
-msgstr "no hi ha prou saldo per enviar el missatge"
+msgstr "no hi ha prou saldo per a enviar el missatge"
 
 #: ../libempathy-gtk/empathy-chat.c:1540 ../libempathy-gtk/empathy-chat.c:1554
 #: ../libempathy-gtk/empathy-chat.c:1617
@@ -903,7 +907,7 @@ msgstr "S'ha produït un error en enviar el missatge: %s"
 #, c-format
 msgid "insufficient balance to send message. <a href='%s'>Top up</a>."
 msgstr ""
-"no hi ha prou saldo per enviar el missatge. <a href='%s'>Recarrega</a>."
+"no hi ha prou saldo per a enviar el missatge. <a href='%s'>Recarrega</a>."
 
 #: ../libempathy-gtk/empathy-chat.c:1588
 msgid "not capable"
@@ -995,7 +999,6 @@ msgstr "En/na %s s'ha desconnectat"
 
 #. translators: reverse the order of these arguments
 #. * if the kicked should come before the kicker in your locale.
-#.
 #: ../libempathy-gtk/empathy-chat.c:2826
 #, c-format
 msgid "%1$s was kicked by %2$s"
@@ -1008,7 +1011,6 @@ msgstr "S'ha expulsat en/na %s"
 
 #. translators: reverse the order of these arguments
 #. * if the banned should come before the banner in your locale.
-#.
 #: ../libempathy-gtk/empathy-chat.c:2837
 #, c-format
 msgid "%1$s was banned by %2$s"
@@ -1028,7 +1030,6 @@ msgstr "En/na %s ha sortit de la sala"
 #. * notifications like "foo has left the room", with the message
 #. * given by the user living the room. If this poses a problem,
 #. * please let us know. :-)
-#.
 #: ../libempathy-gtk/empathy-chat.c:2853
 #, c-format
 msgid " (%s)"
@@ -1307,7 +1308,7 @@ msgstr "gnome-contacts no està instal·lat"
 #: ../libempathy-gtk/empathy-individual-information-dialog.c:325
 msgid "Please install gnome-contacts to access contacts details."
 msgstr ""
-"Instal·leu el Contactes del GNOME per accedir a les dades dels contactes."
+"Instal·leu el Contactes del GNOME per a accedir a les dades dels contactes."
 
 #. Translators: this is used in the context menu for a contact. The first
 #. * parameter is a contact ID (e.g. foo@jabber.org) and the second is one
@@ -1868,7 +1869,7 @@ msgstr "El canal està ple"
 
 #: ../libempathy-gtk/empathy-new-message-dialog.c:90
 msgid "You must be invited to join this channel"
-msgstr "Us han de convidar per entrar en aquest canal"
+msgstr "Us han de convidar per a entrar en aquest canal"
 
 #: ../libempathy-gtk/empathy-new-message-dialog.c:92
 msgid "Can’t proceed while disconnected"
@@ -1915,11 +1916,11 @@ msgstr "Edita els missatges personalitzats…"
 
 #: ../libempathy-gtk/empathy-presence-chooser.c:335
 msgid "Click to remove this status as a favorite"
-msgstr "Feu clic per suprimir aquest estat com a preferit"
+msgstr "Feu clic per a suprimir aquest estat com a preferit"
 
 #: ../libempathy-gtk/empathy-presence-chooser.c:344
 msgid "Click to make this status a favorite"
-msgstr "Feu clic per fer que aquest estat sigui un preferit"
+msgstr "Feu clic per a fer que aquest estat sigui un preferit"
 
 #. Translators: %s is a status message like 'At the pub' for example
 #: ../libempathy-gtk/empathy-presence-chooser.c:378
@@ -1929,8 +1930,8 @@ msgid ""
 "<small><i>Press Enter to set the new message or Esc to cancel.</i></small>"
 msgstr ""
 "<b>Missatge actual: %s</b>\n"
-"<small><i>Premeu la tecla de retorn per establir el missatge nou o premeu la "
-"tecla d'escapada per cancel·lar-ho.</i></small>"
+"<small><i>Premeu la tecla de retorn per a establir el missatge nou o premeu "
+"la tecla d'escapada per a cancel·lar-ho.</i></small>"
 
 #: ../libempathy-gtk/empathy-presence-chooser.c:387
 msgid "Set status"
@@ -2126,7 +2127,7 @@ msgstr "Seleccioneu un fitxer"
 
 #: ../libempathy-gtk/empathy-ui-utils.c:877
 msgid "Insufficient free space to save file"
-msgstr "No hi ha prou espai lliure per desar el fitxer"
+msgstr "No hi ha prou espai lliure per a desar el fitxer"
 
 #: ../libempathy-gtk/empathy-ui-utils.c:885
 #, c-format
@@ -2134,7 +2135,7 @@ msgid ""
 "%s of free space are required to save this file, but only %s is available. "
 "Please choose another location."
 msgstr ""
-"Es necessita %s d'espai lliure per desar el fitxer, però només hi ha %s. "
+"Es necessita %s d'espai lliure per a desar el fitxer, però només hi ha %s. "
 "Seleccioneu una altra ubicació."
 
 #: ../libempathy-gtk/empathy-ui-utils.c:931
@@ -2313,7 +2314,7 @@ msgid ""
 "To add a new account, you first have to install a backend for each protocol "
 "you want to use."
 msgstr ""
-"Per afegir un compte nou, primer heu d'instal·lar el rerefons de cada "
+"Per a afegir un compte nou, primer heu d'instal·lar el rerefons de cada "
 "protocol que vulgueu utilitzar."
 
 #: ../src/empathy-accounts-dialog.ui.h:6
@@ -2372,7 +2373,7 @@ msgstr "Client d'àudio/vídeo de l'Empathy"
 #: ../src/empathy-call-observer.c:111
 #, c-format
 msgid "%s just tried to call you, but you were in another call."
-msgstr "%s us ha intentat trucar però estàveu en una altra conversa."
+msgstr "%s us ha intentat trucar, però estàveu en una altra conversa."
 
 #: ../src/empathy-call-window.c:1544 ../src/empathy-event-manager.c:474
 msgid "Incoming call"
@@ -2534,7 +2535,7 @@ msgstr "El saldo actual és de %s."
 
 #: ../src/empathy-call-window.c:3253
 msgid "Sorry, you don’t have enough credit for that call."
-msgstr "No teniu prou saldo per fer aquesta trucada."
+msgstr "No teniu prou saldo per a fer aquesta trucada."
 
 #: ../src/empathy-call-window.c:3255
 msgid "Top Up"
@@ -2683,7 +2684,6 @@ msgstr ""
 
 #. Note to translators: the number of chats will
 #. * always be at least 2.
-#.
 #: ../src/empathy-chat-window.c:298
 #, c-format
 msgid ""
@@ -3139,8 +3139,8 @@ msgid ""
 "No accounts to import could be found. Empathy currently only supports "
 "importing accounts from Pidgin."
 msgstr ""
-"No s'han trobat comptes per importar. L'Empathy de moment només pot importar "
-"comptes del Pidgin."
+"No s'han trobat comptes per a importar. L'Empathy de moment només pot "
+"importar comptes del Pidgin."
 
 #: ../src/empathy-import-dialog.c:203
 msgid "Import Accounts"
@@ -3166,7 +3166,7 @@ msgstr "Convida un participant"
 
 #: ../src/empathy-invite-participant-dialog.c:198
 msgid "Choose a contact to invite into the conversation:"
-msgstr "Seleccioneu un contacte per convidar-lo a la conversa:"
+msgstr "Seleccioneu un contacte per a convidar-lo a la conversa:"
 
 #: ../src/empathy-invite-participant-dialog.c:221
 msgid "Invite"
@@ -3329,7 +3329,7 @@ msgstr ""
 #. translators: Quote from Romeo & Julier, for chat theme preview
 #: ../src/empathy-preferences.c:647
 msgid "Deny thy father and refuse thy name;"
-msgstr "Rebutja el teu nom."
+msgstr "Rebutja el teu nom;"
 
 #. translators: Quote from Romeo & Julier, for chat theme preview
 #: ../src/empathy-preferences.c:650
@@ -3480,7 +3480,9 @@ msgstr ""
 "més precís que la ciutat, el país o l'estat. Les coordenades del GPS es "
 "truncaran a una posició decimal."
 
-#. To translators: The longitude and latitude are rounded to closest 0,1 degrees, so for example 146,2345° is rounded to round(146,2345*10)/10 = 146,2 degrees.
+#. To translators: The longitude and latitude are rounded to closest 0,1
+#. degrees, so for example 146,2345° is rounded to round(146,2345*10)/10 =
+#. 146,2 degrees.
 #: ../src/empathy-preferences.ui.h:33
 msgid "_Reduce location accuracy"
 msgstr "_Redueix la precisió de la ubicació"
@@ -3527,7 +3529,7 @@ msgstr "Desconnecta"
 
 #: ../src/empathy-roster-window.c:500
 msgid "You need to set up an account to see contacts here."
-msgstr "Heu de configurar un compte per veure'n els contactes aquí."
+msgstr "Heu de configurar un compte per a veure'n els contactes aquí."
 
 #: ../src/empathy-roster-window.c:576
 #, c-format
@@ -3580,13 +3582,13 @@ msgstr "Recarrega el compte"
 
 #: ../src/empathy-roster-window.c:1653
 msgid "You need to enable one of your accounts to see contacts here."
-msgstr "Heu d'habilitar com a mínim un compte per veure contactes aquí."
+msgstr "Heu d'habilitar com a mínim un compte per a veure contactes aquí."
 
 #. translators: argument is an account name
 #: ../src/empathy-roster-window.c:1661
 #, c-format
 msgid "You need to enable %s to see contacts here."
-msgstr "Heu d'habilitar %s per veure contactes aquí."
+msgstr "Heu d'habilitar %s per a veure contactes aquí."
 
 #: ../src/empathy-roster-window.c:1749
 msgid "No match found"
@@ -3705,58 +3707,3 @@ msgstr "Edita les opcions del compte %s"
 msgid "Integrate your IM accounts"
 msgstr "Integreu els vostres comptes de missatgeria instantània"
 
-#~ msgid "- Empathy Chat Client"
-#~ msgstr "- Client de xat Empathy"
-
-#~ msgid "Change your presence to see contacts here"
-#~ msgstr "Canvieu el vostre estat per veure els contactes"
-
-#~ msgid "_Copy Link Address"
-#~ msgstr "_Copia l'adreça de l'enllaç"
-
-#~ msgid "_Open Link"
-#~ msgstr "_Obre l'enllaç"
-
-#~ msgid "Inspect HTML"
-#~ msgstr "Inspecciona l'HTML"
-
-#~ msgid "No error message"
-#~ msgstr "No hi ha missatge d'error"
-
-#~ msgid "Instant Message (Empathy)"
-#~ msgstr "Missatgeria instantània (Empathy)"
-
-#~ msgid ""
-#~ "Empathy is free software; you can redistribute it and/or modify it under "
-#~ "the terms of the GNU General Public License as published by the Free "
-#~ "Software Foundation; either version 2 of the License, or (at your option) "
-#~ "any later version."
-#~ msgstr ""
-#~ "L'Empathy és programari lliure; podeu redistribuir-lo i/o modificar-lo "
-#~ "sota els termes de la Llicència Pública General GNU tal com ha estat "
-#~ "publicada per la Free Software Foundation; bé sota la versió 2 de la "
-#~ "Llicència o bé (si ho preferiu) sota qualsevol versió posterior."
-
-#~ msgid ""
-#~ "Empathy is distributed in the hope that it will be useful, but WITHOUT "
-#~ "ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
-#~ "FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
-#~ "more details."
-#~ msgstr ""
-#~ "L'Empathy es distribueix amb l'expectativa que serà útil, però SENSE CAP "
-#~ "GARANTIA; fins i tot la garantia implícita de COMERCIALITZACIÓ o "
-#~ "ADEQUACIÓ PER UN PROPÒSIT PARTICULAR.  Vegeu la Llicència Pública General "
-#~ "GNU per obtenir-ne més detalls."
-
-#~ msgid ""
-#~ "You should have received a copy of the GNU General Public License along "
-#~ "with Empathy; if not, write to the Free Software Foundation, Inc., 51 "
-#~ "Franklin Street, Fifth Floor, Boston, MA 02110-130159 USA"
-#~ msgstr ""
-#~ "Hauríeu d'haver rebut una còpia de la Llicència Pública General GNU "
-#~ "juntament amb l'Empathy; en cas contrari, escriviu a la Free Software "
-#~ "Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA "
-#~ "02110-130159 USA"
-
-#~ msgid "About Empathy"
-#~ msgstr "Quant a l'Empathy"
