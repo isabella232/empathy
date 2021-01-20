@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: empathy master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/empathy/issues\n"
-"POT-Creation-Date: 2020-10-10 12:31+0000\n"
-"PO-Revision-Date: 2020-10-18 13:16+0200\n"
+"POT-Creation-Date: 2020-11-09 07:27+0000\n"
+"PO-Revision-Date: 2021-01-20 22:01+0100\n"
 "Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
 "Language-Team: Friulian <f.t.public@gmail.com>\n"
 "Language: fur\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: ../data/org.gnome.Empathy.desktop.in.in.h:1
 #: ../data/org.gnome.Empathy.appdata.xml.in.h:1
@@ -556,7 +556,7 @@ msgstr "Trasferiment file completât, ma il file al jere ruvinât"
 
 #: ../libempathy/empathy-ft-handler.c:1176
 msgid "File transfer not supported by remote contact"
-msgstr "Il trasferiment dai file nol è supuartât dal contat rimot"
+msgstr "Il contat lontan nol supuarte il trasferiment dai file"
 
 #: ../libempathy/empathy-ft-handler.c:1232
 msgid "The selected file is not a regular file"
@@ -2640,7 +2640,7 @@ msgstr "Codec di decodifiche:"
 
 #: ../src/empathy-call-window.ui.h:30
 msgid "Remote Candidate:"
-msgstr "Candidât rimot:"
+msgstr "Candidât lontan:"
 
 #: ../src/empathy-call-window.ui.h:31
 msgid "Local Candidate:"
@@ -2937,7 +2937,8 @@ msgid ""
 "The selected connection manager does not support the remote debugging "
 "extension."
 msgstr ""
-"Il gjestôr di conession selezionât nol supuarte la estension pal debug rimot."
+"Il gjestôr di conession selezionât nol supuarte la estension pal debug di "
+"lontan."
 
 #: ../src/empathy-event-manager.c:474
 msgid "Incoming video call"
