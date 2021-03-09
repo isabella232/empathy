@@ -2234,7 +2234,7 @@ msgid ""
 "the account."
 msgstr ""
 "S'ha inhabilitat el compte degut perquè depèn d'un rerefons vell que s'ha "
-"discontinuat. Instal·leu el telepathy-haze i reinicieu la sessió per migrar "
+"discontinuat. Instal·leu el telepathy-haze i reinicieu la sessió per a migrar "
 "el compte."
 
 #: ../src/empathy-accounts-dialog.c:485
@@ -3452,7 +3452,7 @@ msgstr "Sons"
 #: ../src/empathy-preferences.ui.h:26
 msgid "Use _echo cancellation to improve call quality"
 msgstr ""
-"Utilitzeu la cancel·lació de l'_eco per millorar la qualitat de la trucada"
+"Utilitzeu la cancel·lació de l'_eco per a millorar la qualitat de la trucada"
 
 #: ../src/empathy-preferences.ui.h:27
 msgid ""
